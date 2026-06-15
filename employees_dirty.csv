@@ -1,0 +1,1161 @@
+employee_id,first_name,last_name,department,gender,age,hire_date,salary,employment_status,email
+1359,Lucas,Taylor,HR,Male,52,2020-06-06,-149000,active,lucas.taylor59gmail.com
+1688,David,Smith,HR,M,,2015-05-20,86000,Inactive,david.smith88@outlook.com
+1921,Olivia,Garcia,Enginering,Female,24,2013-01-09,137000,active,olivia.garcia21outlook.com
+1065,Mason,Brown,Marketing,Male,59,2018-09-11,42000,On Leave,
+2002,Lucas,Thompson,Markting,m,29,2011-07-13,54000.0 USD,Active,lucas.thompson2@company.org
+1405,Liam,Smith,HR,MALE,,2011-02-11,-126000,Active,liam.smith5outlook.com
+1283,Liam,Garcia,HR,FEMALE,32,2013-04-02,52000,inactive,
+1316,Joseph,Jackson,HR,Female,55,,53000,INACTIVE,joseph.jackson16@outlook.com
+1563,Mason,Anderson,Sales,m,0,,147000,Inactive,
+1069,Jessica,Green,Finance,Male,29,,-90000,inactive,jessica.green69@company.org
+1179,Sophia,Martin,HR,FEMALE,56,12-03-2016,117000.0 USD,Active,   sophia.martin79@company.org  
+2058,Robert,Lewis,Sale,M,32,2012-11-26,126000,Inactive,robert.lewis58@yahoo.com
+1851,John,Young,engineering,female,32,2013-02-05,45000.0 USD,ACTIVE,john.young51@company.org
+1531,Liam,Thompson,Finance,Female,0,09/15/2016,45000,Inactive,liam.thompson31outlook.com
+1783,Lisa,Jones,HR,Male,54 years,2022-01-04,42000,INACTIVE,lisa.jones83@outlook.com
+1996,Liam,Hall,Saless,Male,26,2010-01-13,,On Leave,
+2020,James,Lewis,Marketing,f,43,07/20/2012,-46000,On Leave,james.lewis20@yahoo.com
+1434,Noah,,HR,FEMALE,43,2023-10-19,"$123,000",ON LEAVE,
+1180,Michael,Williams,Marketing,female,57,2010-07-27,64000.0 USD,On Leave,
+1355,Linda,Williams,Sales,F,34,2011-01-26,,Inactive,linda.williams55@gmail.com
+1811,Liam,Martin,Markting,Female,999,2018-03-22,120000,On Leave,liam.martin11@outlook.com
+2043,John,Smith,HR,MALE,36,,"$75,000",Inactive,john.smith43@company.org
+1648,Mason,,HR,F,53,2017-06-02,50000.0 USD,Active,mason.johnson48outlook.com
+1295,Mia,Martin,Sales,Male,62,9/11/2017,54000.0 USD,Inactive,mia.martin95@company.org
+1196,Noah,White,Enginering,female,34,07/01/2012,,Inactive,noah.white96@yahoo.com
+1610,John,White,Saless,f,-5,02-11-2020,142000,INACTIVE,john.white10gmail.com
+1051,John,Walker,sales,MALE,40,,122000,on leave,john.walker51@company.org
+1956,,Davis,finance,f,42,2013-07-23,88000.0 USD,Inactive,
+1075,Emma,Walker,HR,Male,28,2022-06-23,92000,Activ,emma.walker75@gmail.com
+1804,Lucas,Garcia,Fin,f,24.5,,-138000,INACTIVE,lucas.garcia4@outlook.com
+2008,Mia,Garcia,Saless,Male,,18-05-2019,,ACTIVE,mia.garcia8@yahoo.com
+1349,Susan,Jackson,Marketing,Female,41.5,2023-10-10,"$140,000",Active,susan.jackson49@company.org
+1452,Ethan,Martin,HR,Male,,,"$105,000",ACTIVE,   ethan.martin52@yahoo.com  
+1846,Logan,Davis,HR,MALE,28,,44000,On Leave,logan.davis46@company.org
+2001,Susan,Allen,finance,Male,36,2014-06-28,136000,Active,susan.allen1@gmail.com
+1066,Michael,Lewis,finance,m,52,2013-02-12,119000,Activ,michael.lewis66@outlook.com
+1372,John,Miller,Engineering,Female,38,5/22/2022,,Active,   john.miller72@yahoo.com  
+1969,Emma,Davis,Finance,Male,51,2018-09-22,103000,Active,emma.davis69@outlook.com
+1733,Lucas,Harris,hr,female,45 years,06/22/2015,"$94,000",inactive,lucas.harris33@company.org
+1527,Michael,Anderson,HR,Male,31 years,2010-10-26,138000.0 USD,On Leave,michael.anderson27@company.org
+1583,Ava,Williams,Financee,m,999,2014-02-04,135000.0 USD,Active,   ava.williams83@company.org  
+1611,Charles,Jones,Engineering,male,35,03-07-2010,"$144,000",On Leave,charles.jones11@company.org
+1006,Sophia,Thomas,ENGINEERING,Male,,2022-01-28,98000,On Leave,sophia.thomas6@gmail.com
+1411,Lucas,Garcia,Enginering,MALE,51,2012-12-17,126000,Inactive,lucas.garcia11@gmail.com
+1941,Charles,Lewis,FINANCE,Male,22 years,,,On Leave,charles.lewis41@outlook.com
+2031,Joseph,Young,Finance,Male,53.5,2020-11-14,46000,On Leave,joseph.young31outlook.com
+1292,Patricia,Brown,Finance,m,60,12/10/2024,127000,Inactive,patricia.brown92@company.org
+1726,Emma,Garcia,marketing,Female,40,2014-10-09,103000,inactive,emma.garcia26gmail.com
+1865,Mary,Green,Eng,Male,57,,65000,inactive,mary.green65@yahoo.com
+1375,Sarah,Wilson,Engineering,F,45,2023-05-01,-126000,Inactive,sarah.wilson75@gmail.com
+1860,John,Hall,HR,Male,37,2016-10-28,61000,Inactive,john.hall60@company.org
+1183,Charles,Young,Marketing,F,63,2017-10-20,,Inactive,
+2038,William,Scott,Sales,m,34,2019-04-25,44000,Inactive,william.scott38@company.org
+1289,Logan,Davis,Enginering,F,50,10/20/2011,87000,Inactive,LOGAN.DAVIS89@GMAIL.COM
+1449,Logan,Harris,HR,Male,40 years,2020-08-12,46000,on leave,logan.harris49@outlook.com
+1916,Susan,Smith,MARKETING,Male,58,2019-10-07,54000,INACTIVE,susan.smith16@company.org
+1261,Mia,Wright,Finance,Male,27,2013-03-16,133000,INACTIVE,mia.wright61gmail.com
+1692,John,Scott,hr,M,22,11/2/2012,58000,Active,john.scott92@yahoo.com
+1576,,Garcia,Finance,MALE,,2014-11-04,96000,Inactive,sarah.garcia76@company.org
+1787,Liam,Wilson,HR,f,43,2014-09-20,-118000,Inactive,liam.wilson87@outlook.com
+1919,Ethan,Green,FINANCE,f,35 years,2017-12-27,"$49,000",On Leave,ethan.green19@outlook.com
+1664,Liam,Wright,Marketing,Female,58,2020-05-16,,On Leave,   liam.wright64@company.org  
+1490,Karen,Jones,ENGINEERING,Female,46,,47000,Inactive,karen.jones90@gmail.com
+1492,Patricia,Scott,Marketing,m,48,2021-08-06,112000.0 USD,ON LEAVE,patricia.scott92@company.org
+1349,Susan,Jackson,Marketing,Female,41.5,2023-10-10,"$140,000",Active,susan.jackson49@company.org
+1382,Barbara,Smith,marketing,FEMALE,50,2024-04-12,114000,ACTIVE,BARBARA.SMITH82@COMPANY.ORG
+1497,Ethan,Anderson,Marketing,Female,,2024-12-06,35000,INACTIVE,ethan.anderson97company.org
+2045,Emma,Walker,Markting,F,44,14-05-2024,85000,ON LEAVE,EMMA.WALKER45@COMPANY.ORG
+1905,Michael,Miller,Enginering,FEMALE,35,16-07-2023,,ON LEAVE,michael.miller5@gmail.com
+1772,David,Johnson,Markting,Male,56,2020-12-06,78000,On Leave,david.johnson72@yahoo.com
+1378,Susan,Hall,HR,male,34,2020-05-11,86000,Active,susan.hall78gmail.com
+2049,William,Green,Eng,Male,0,2014-05-19,36000,ACTIVE,william.green49company.org
+1274,Richard,Martin,HR,Male,55,2013-04-03,,On Leave,richard.martin74@outlook.com
+1398,Patricia,Thompson,Sales,FEMALE,57,2011-05-21,75000,On Leave,
+1225,,Harris,HR,f,57,,97000.0 USD,inactive,
+1962,James,Wilson,HR,Male,,2023-03-21,87000,On Leave,JAMES.WILSON62@COMPANY.ORG
+2061,Isabella,Lewis,Sales,male,27,2011-01-04,51000,inactive,isabella.lewis61@company.org
+1145,John,Harris,Marketing,f,29,2022-04-07,91000,ACTIVE,john.harris45@outlook.com
+1335,James,White,Sales,MALE,54,,"$128,000",Inactive,james.white35@company.org
+1064,Jessica,White,HR,M,51,2016-07-24,78000.0 USD,Inactive,jessica.white64@gmail.com
+1587,Ava,Wright,Engineering,female,,15-02-2012,89000,ON LEAVE,ava.wright87@gmail.com
+1655,Mary,Jones,Fin,Male,58,2016-07-25,80000,On Leave,mary.jones55@gmail.com
+1509,Charles,Johnson,Engineering,Female,25,2020-04-27,69000.0 USD,Active,
+1608,Richard,Smith,HR,Male,,2019-07-24,61000.0 USD,Inactive,richard.smith8@company.org
+1083,Charles,Davis,marketing,m,48,15-10-2020,,Active,charles.davis83gmail.com
+1447,Jessica,Davis,Marketing,male,45,2018-01-06,,Inactive,jessica.davis47@outlook.com
+1836,Sophia,Young,SALES,Female,,2024-04-03,110000,Active,sophia.young36@outlook.com
+1592,Mason,Young,Sale,female,44,2024-01-20,104000.0 USD,Active,mason.young92@outlook.com
+1088,Isabella,Walker,HR,M,44,,91000,On Leave,isabella.walker88@outlook.com
+1697,Mia,Harris,Markting,m,22,05/23/2011,,On Leave,mia.harris97@outlook.com
+1241,Richard,Harris,HR,M,48,2018-02-18,57000,Inactive,richard.harris41@gmail.com
+1074,Ethan,Harris,Sales,MALE,40,2011-11-28,141000,Inactive,ethan.harris74@gmail.com
+1157,Susan,Brown,SALES,male,0,2017-06-17,36000,On Leave,
+1327,Emma,Brown,Finance,Male,35,2022-01-19,,INACTIVE,emma.brown27@yahoo.com
+1489,Charlotte,Walker,engineering,Female,49,,,Active,charlotte.walker89@yahoo.com
+1742,James,Scott,Finance,Male,34,2024-08-13,83000.0 USD,Inactive,james.scott42@company.org
+1645,Mason,Jones,MARKETING,Female,52,,121000,Inactive,mason.jones45@yahoo.com
+1908,Logan,Wright,Marketing,Female,64,21-09-2014,149000,ON LEAVE,logan.wright8@outlook.com
+1206,Lisa,Thompson,Financee,M,51,2015-06-27,120000,On Leave,lisa.thompson6@gmail.com
+1682,Joseph,Lewis,Markting,female,,2022-10-12,"$120,000",ON LEAVE,joseph.lewis82@yahoo.com
+1683,Robert,Anderson,Markting,Male,34,2014-03-14,,ON LEAVE,robert.anderson83outlook.com
+1512,Susan,Miller,FINANCE,Female,63 years,2014-01-10,"$58,000",On Leave,susan.miller12@yahoo.com
+1699,Emma,Smith,Sale,f,62 years,2019-08-08,48000,On Leave,emma.smith99@company.org
+1535,Thomas,Garcia,Sales,m,41,2012-04-12,78000,Inactive,thomas.garcia35@company.org
+1205,Sarah,Williams,HR,Female,27,,,On Leave,sarah.williams5@outlook.com
+1158,,Wilson,Finance,M,54,,93000,Inactive,robert.wilson58@yahoo.com
+1718,John,Young,sales,female,44,3/19/2020,"$48,000",Inactive,john.young18@yahoo.com
+2021,Karen,Jones,Eng,Female,29,13-03-2014,110000,ON LEAVE,karen.jones21@gmail.com
+1357,James,Scott,Sales,male,52,2015-12-19,143000,ON LEAVE,james.scott57@yahoo.com
+1633,Richard,Hall,Finance,Male,65,2023-06-23,142000,Inactive,
+1540,Lucas,Miller,Engineering,Female,29,,83000,On Leave,lucas.miller40@outlook.com
+1095,Charlotte,Hall,Engineering,Male,-5,2021-10-11,119000,Active,charlotte.hall95@gmail.com
+1200,Michael,Wilson,Engineering,F,51,,68000.0 USD,Inactive,michael.wilson0@yahoo.com
+2028,Sarah,Thomas,ENGINEERING,Female,64,2020-04-08,80000,On Leave,SARAH.THOMAS28@YAHOO.COM
+1789,Noah,Thompson,HR,female,49,2020-11-07,111000,Inactive,NOAH.THOMPSON89@YAHOO.COM
+1866,Patricia,Taylor,engineering,Male,44,,61000,Activ,patricia.taylor66@outlook.com
+1981,Susan,Williams,Sales,male,60,10/13/2021,,inactive,susan.williams81@yahoo.com
+1397,Sophia,Johnson,Marketing,MALE,49,2016-08-24,115000,In-active,sophia.johnson97@outlook.com
+1654,Logan,Miller,Finance,M,38,2016-01-22,"$84,000",On Leave,   logan.miller54@gmail.com  
+1416,Susan,Smith,Marketing,Male,,2017-02-26,141000,In-active,susan.smith16@outlook.com
+1035,,Lewis,Financee,Female,53,2023-06-06,38000.0 USD,INACTIVE,   ethan.lewis35@company.org  
+1680,Noah,Hall,Sales,m,57,2022-02-18,46000,On Leave,noah.hall80@yahoo.com
+1950,Isabella,Walker,finance,Male,61,2023-02-03,37000,Inactive,isabella.walker50@outlook.com
+1663,Robert,Harris,HR,m,40,08/11/2021,78000,INACTIVE,   robert.harris63@company.org  
+1864,Sophia,Davis,marketing,FEMALE,999,2014-04-28,122000,ON LEAVE,sophia.davis64@gmail.com
+1019,Liam,Lewis,Finance,Male,24,2014-06-26,51000,inactive,liam.lewis19@gmail.com
+2060,Robert,Garcia,Engineering,F,59,2022-12-11,40000.0 USD,On Leave,robert.garcia60@company.org
+1132,David,Allen,hr,M,41,2014-08-05,69000.0 USD,INACTIVE,david.allen32@gmail.com
+2037,Ava,Lewis,Engineering,Female,53,2015-03-02,"$105,000",INACTIVE,
+1960,Isabella,White,HR,Female,30,,"$86,000",Inactive,isabella.white60@gmail.com
+1588,John,Smith,Engineering,m,30,03/10/2017,42000,Active,john.smith88@gmail.com
+1235,Olivia,Lewis,Fin,m,,2017-04-28,52000.0 USD,Inactive,
+1337,Robert,Jackson,marketing,M,39,2021-10-18,89000,Inactive,robert.jackson37@yahoo.com
+1863,William,Thomas,Finance,F,41,2022-05-03,-48000,Active,william.thomas63@company.org
+1736,William,Green,HR,Female,,2018-12-21,,On Leave,
+1889,Robert,Allen,Finance,Female,,2010-12-06,68000.0 USD,Inactive,robert.allen89@outlook.com
+1093,Mia,Thompson,HR,F,30,2015-11-03,44000,on leave,MIA.THOMPSON93@COMPANY.ORG
+1054,Charles,Smith,HR,f,65 years,02-12-2022,"$107,000",inactive,charles.smith54@company.org
+1339,Joseph,Anderson,Marketing,FEMALE,49 years,2014-01-03,122000,On Leave,joseph.anderson39@outlook.com
+1788,William,Martin,Marketing,M,999,2018-09-20,97000,ON LEAVE,william.martin88@gmail.com
+1986,Jennifer,,Engineering,female,24,2021-06-08,,Activ,jennifer.anderson86@company.org
+1120,Richard,Johnson,Marketing,Female,60,02/07/2010,112000.0 USD,ON LEAVE,RICHARD.JOHNSON20@YAHOO.COM
+1122,Emma,Miller,Marketing,f,58,04/24/2023,40000,Inactive,emma.miller22@yahoo.com
+1910,Linda,Anderson,Marketing,Male,42.5,02-08-2015,35000,ACTIVE,linda.anderson10@yahoo.com
+1361,,Martin,Finance,Female,51,2011-02-09,,ACTIVE,sophia.martin61@company.org
+1192,Jennifer,Davis,Marketing,Male,41,2016-06-12,146000,On Leave,jennifer.davis92@outlook.com
+2097,Jessica,Johnson,Markting,Male,-5,2010-04-07,100000,Inactive,
+1329,Isabella,White,engineering,M,0,2019-03-23,,On Leave,isabella.white29@company.org
+1619,Mason,Williams,Engineering,FEMALE,52,2014-12-18,-70000,On Leave,mason.williams19yahoo.com
+1286,Barbara,Harris,HR,M,29,2012-10-23,,On Leave,barbara.harris86@yahoo.com
+1020,Sarah,Garcia,Eng,Female,,2022-07-26,-57000,active,SARAH.GARCIA20@YAHOO.COM
+1312,Lisa,Walker,Sales,F,,2017-08-17,134000.0 USD,ON LEAVE,lisa.walker12@company.org
+1481,Patricia,Wright,Marketing,female,58 years,2012-08-23,55000,on leave,patricia.wright81@company.org
+1040,Linda,Young,HR,m,50,2024-08-10,83000,On Leave,LINDA.YOUNG40@COMPANY.ORG
+1479,Logan,Taylor,HR,Male,35,26-12-2023,54000,inactive,logan.taylor79@yahoo.com
+1364,Logan,Allen,Finance,FEMALE,32,13-01-2018,106000,Inactive,
+1100,Karen,Walker,FINANCE,m,,,47000,Active,karen.walker0@outlook.com
+1552,,Anderson,marketing,MALE,53,09-01-2017,41000,ACTIVE,
+2098,Susan,Young,Sales,female,56.5,04/01/2017,96000,inactive,susan.young98@outlook.com
+1833,Lucas,Williams,Finance,F,41,2021-05-14,98000,ACTIVE,lucas.williams33@gmail.com
+1519,Sarah,Jackson,HR,f,53,2018-09-27,103000,On Leave,sarah.jackson19@yahoo.com
+1803,Ava,Jones,Sales,Female,53,2020-07-18,-102000,Inactive,ava.jones3@company.org
+1101,Barbara,Walker,Finance,Male,42,20-07-2012,113000,Inactive,barbara.walker1@outlook.com
+1315,Barbara,Martin,HR,Female,50,,119000.0 USD,Active,barbara.martin15@yahoo.com
+1247,Susan,Martin,hr,male,45,2015-07-09,124000,Inactive,susan.martin47@company.org
+2054,Charles,Williams,hr,Female,41 years,2013-06-02,39000,inactive,charles.williams54@yahoo.com
+1976,Ava,White,marketing,M,63,,36000,Active,ava.white76@gmail.com
+1410,Jennifer,Williams,Sales,Female,35,2017-02-12,95000,INACTIVE,jennifer.williams10@company.org
+1042,Richard,White,SALES,m,39,2023-03-03,54000,On Leave,richard.white42@gmail.com
+1369,Mason,Allen,Finance,Female,47,2014-10-17,88000,Active,MASON.ALLEN69@COMPANY.ORG
+1530,Olivia,Williams,SALES,m,51,2014-08-09,,On Leave,olivia.williams30@company.org
+2015,Richard,Jones,Enginering,Female,29,2011-05-05,90000,ACTIVE,richard.jones15@outlook.com
+1181,Barbara,Brown,HR,male,34,1/14/2012,,Active,barbara.brown81@gmail.com
+2010,William,,HR,Female,30,2021-02-08,143000,inactive,william.wright10@outlook.com
+1464,Logan,Jackson,HR,Female,46 years,2017-05-21,82000,On Leave,logan.jackson64@gmail.com
+1657,Emma,Thompson,FINANCE,FEMALE,47,2017-08-10,,Inactive,emma.thompson57@company.org
+1501,Jennifer,Green,HR,Male,54,2012-04-09,"$54,000",On Leave,jennifer.green1@gmail.com
+1523,John,Walker,Engineering,Male,49 years,2020-08-18,85000,Activ,john.walker23@outlook.com
+1213,Charles,Wright,Sale,f,65,2015-09-02,88000,Inactive,charles.wright13@gmail.com
+1943,Isabella,Jones,Sales,Male,56,2018-11-19,37000,Inactive,isabella.jones43@outlook.com
+1400,David,Walker,Enginering,f,27,2020-08-05,,On Leave,david.walker0@yahoo.com
+1555,Jennifer,Miller,Marketing,M,25,2014-01-04,146000,ON LEAVE,jennifer.miller55@gmail.com
+1706,Lisa,Brown,Saless,Female,53,2020-03-25,114000,Inactive,lisa.brown6@company.org
+1440,Sophia,Hall,Fin,MALE,34,13-04-2017,"$63,000",Active,
+1924,Ethan,White,HR,MALE,60,,,INACTIVE,ethan.white24@gmail.com
+1541,Thomas,Taylor,HR,Male,48 years,2010-01-01,150000.0 USD,Active,thomas.taylor41@yahoo.com
+1553,James,Harris,Marketing,MALE,56,9/2/2024,39000,Inactive,james.harris53@outlook.com
+2073,Thomas,Young,engineering,Male,53,2018-10-25,128000,Inactive,thomas.young73@gmail.com
+1377,,Martin,HR,F,28,2023-03-23,89000,On Leave,logan.martin77@outlook.com
+1480,Mary,Young,HR,F,52,2015-07-13,121000,Inactive,
+1763,James,Thomas,Sale,f,32 years,04/05/2016,150000,ON LEAVE,james.thomas63@gmail.com
+1288,David,Jones,engineering,male,150,2021-08-10,74000,Inactive,david.jones88@yahoo.com
+1578,Jessica,Thomas,Finance,F,33,2020-03-12,43000.0 USD,On Leave,jessica.thomas78@outlook.com
+1428,Joseph,Wright,HR,MALE,32,5/3/2015,60000,Active,   joseph.wright28@gmail.com  
+1290,Barbara,Johnson,Fin,Female,25,2011-07-06,46000,Inactive,barbara.johnson90@yahoo.com
+1305,Sarah,Garcia,Sales,F,,2017-06-18,,INACTIVE,sarah.garcia5@gmail.com
+1753,Mason,Walker,Sales,MALE,43,26-06-2021,,On Leave,mason.walker53@yahoo.com
+1302,William,Williams,HR,male,65,2020-12-25,74000,inactive,william.williams2@company.org
+1964,Liam,Green,Marketing,M,49,,121000,ACTIVE,liam.green64outlook.com
+2044,Ava,Davis,MARKETING,M,45 years,2019-08-24,"$123,000",active,AVA.DAVIS44@GMAIL.COM
+1248,Richard,Jones,Engineering,F,,,57000,Active,richard.jones48outlook.com
+1902,Noah,Jackson,Engineering,Male,0,2023-12-08,-110000,Inactive,noah.jackson2@outlook.com
+1242,Ava,Lewis,HR,M,51,19-08-2020,-134000,Inactive,ava.lewis42@gmail.com
+1967,Emma,Scott,Finance,m,36,2015-04-10,114000,Inactive,   emma.scott67@gmail.com  
+1548,Logan,White,Finance,f,33,2013-11-28,67000.0 USD,Active,logan.white48@outlook.com
+1681,Isabella,Scott,Engineering,f,63,,,Inactive,ISABELLA.SCOTT81@COMPANY.ORG
+1098,David,Anderson,Fin,Female,32,2017-09-15,132000,active,DAVID.ANDERSON98@COMPANY.ORG
+1080,Isabella,Harris,Marketing,Female,48,,102000,On Leave,isabella.harris80@yahoo.com
+1832,Linda,Walker,sales,F,56 years,10-07-2023,74000,Active,linda.walker32@gmail.com
+1951,David,Miller,hr,Male,52,2021-07-01,62000.0 USD,Inactive,david.miller51@outlook.com
+2062,Robert,Harris,Sales,f,24,11/08/2022,123000,Inactive,robert.harris62@yahoo.com
+1704,Jessica,Lewis,Engineering,M,28,26-07-2014,77000.0 USD,On Leave,jessica.lewis4@gmail.com
+1209,Mia,Thompson,Engineering,MALE,30,22-07-2011,139000,On Leave,mia.thompson9@outlook.com
+1687,John,Johnson,Finance,male,40,2015-10-14,119000,On Leave,JOHN.JOHNSON87@YAHOO.COM
+1084,Sarah,Lewis,HR,Male,27,2018-06-03,-120000,On Leave,sarah.lewis84@gmail.com
+1336,Charles,Davis,Sales,Male,41,2012-12-15,120000,inactive,charles.davis36@gmail.com
+1469,Richard,Wilson,HR,FEMALE,28,2023-11-06,114000.0 USD,On Leave,richard.wilson69@gmail.com
+1529,Jessica,Walker,FINANCE,m,62,02/26/2017,107000,active,   jessica.walker29@gmail.com  
+1726,Emma,Garcia,marketing,Female,40,2014-10-09,103000,inactive,emma.garcia26gmail.com
+1793,,Smith,Saless,f,39,2014-07-08,127000,On Leave,PATRICIA.SMITH93@YAHOO.COM
+1472,Sarah,Thomas,HR,Female,64,2013-01-21,87000,On Leave,SARAH.THOMAS72@OUTLOOK.COM
+1931,Sarah,Johnson,Sales,Male,47,2017-10-25,81000,ON LEAVE,sarah.johnson31@company.org
+1679,Mary,Jones,Sales,Female,,2022-01-27,85000,Inactive,mary.jones79@gmail.com
+1319,Linda,Wright,sales,M,46,2020-11-19,51000,ON LEAVE,linda.wright19@yahoo.com
+2024,Ethan,Wilson,Marketing,Female,53,2013-11-06,"$49,000",ACTIVE,ethan.wilson24@gmail.com
+1922,David,Miller,Finance,M,31,2020-10-06,134000,Activ,DAVID.MILLER22@OUTLOOK.COM
+1245,John,Martin,Marketing,female,58,2023-05-16,,Inactive,john.martin45@yahoo.com
+1853,Jennifer,Lewis,Sales,Male,56 years,2023-02-18,,ACTIVE,jennifer.lewis53@company.org
+1244,,Martin,Engineering,Male,,2013-04-07,,On Leave,richard.martin44@yahoo.com
+1090,Liam,Jackson,marketing,Female,23 years,2021-03-16,49000,Inactive,liam.jackson90@company.org
+1384,Susan,Wilson,ENGINEERING,Female,51 years,2012-02-11,,INACTIVE,susan.wilson84@company.org
+1110,,Anderson,Sales,FEMALE,999,8/11/2012,47000,on leave,charlotte.anderson10@yahoo.com
+1161,Logan,Green,Engineering,Male,48,4/18/2010,-35000,Active,LOGAN.GREEN61@OUTLOOK.COM
+1603,William,Johnson,HR,male,999,,56000,On Leave,william.johnson3@company.org
+1363,Mason,Brown,hr,Female,46 years,2017-08-02,144000,INACTIVE,mason.brown63@gmail.com
+1476,Ava,Hall,finance,Female,38,,63000,Active,ava.hall76@gmail.com
+1232,Mary,Scott,Marketing,male,60 years,2017-08-06,92000,Active,   mary.scott32@yahoo.com  
+1517,Lisa,Walker,Marketing,Female,53 years,2020-06-09,,Active,lisa.walker17@gmail.com
+1280,Ava,Thompson,Finance,male,58,2012-07-10,65000,inactive,AVA.THOMPSON80@OUTLOOK.COM
+1740,Richard,Hall,Marketing,f,27,26-10-2015,136000,On Leave,richard.hall40@company.org
+2076,Patricia,Johnson,hr,female,49 years,2012-08-25,124000,On Leave,patricia.johnson76@company.org
+1226,Mary,Lewis,FINANCE,FEMALE,24,2018-05-18,62000,on leave,mary.lewis26company.org
+1346,Karen,Miller,Saless,M,50,2020-11-03,143000,On Leave,karen.miller46@company.org
+1618,Lucas,Smith,Sales,m,59,,129000.0 USD,Active,lucas.smith18@outlook.com
+1471,Liam,Allen,HR,Female,44,2023-06-26,42000,On Leave,
+1511,Ava,Hall,MARKETING,male,42,2014-04-19,63000,Inactive,
+1892,Emma,White,Sales,FEMALE,50,2021-01-16,108000,In-active,EMMA.WHITE92@COMPANY.ORG
+1705,Thomas,Green,Engineering,Male,57,2020-06-24,133000,On Leave,thomas.green5@company.org
+1350,Charles,White,Engineering,f,37,2010-02-25,-117000,On Leave,   charles.white50@outlook.com  
+2057,Patricia,Garcia,Marketing,female,27,2024-03-08,"$42,000",Active,patricia.garcia57outlook.com
+1144,Ethan,Lewis,HR,Male,39 years,2022-09-27,49000,On Leave,ethan.lewis44@outlook.com
+2035,Robert,Davis,hr,Male,25,,119000,Inactive,robert.davis35@company.org
+1856,,Scott,Sales,MALE,,2019-02-03,56000,Inactive,mary.scott56@yahoo.com
+1014,Jessica,Johnson,Finance,Male,,2010-10-16,,on leave,jessica.johnson14@yahoo.com
+1825,Mason,Johnson,Sales,f,56,2016-01-17,139000,on leave,mason.johnson25@outlook.com
+1641,David,Taylor,finance,Male,30,11/11/2012,131000,on leave,
+1219,Barbara,Smith,HR,f,26,2010-03-26,46000,Activ,barbara.smith19@outlook.com
+1136,Lucas,Young,Saless,female,56,2019-11-03,149000,On Leave,lucas.young36@gmail.com
+1737,Olivia,Miller,Engineering,Male,,2015-10-11,142000.0 USD,inactive,olivia.miller37@company.org
+1835,Lisa,Young,Marketing,male,24,,,Inactive,lisa.young35@outlook.com
+1089,David,Smith,Engineering,Female,26,2013-11-12,"$51,000",Active,david.smith89@outlook.com
+1238,Patricia,Garcia,HR,male,,2017-10-14,,inactive,patricia.garcia38@gmail.com
+1813,Robert,Green,Marketing,Male,49,2012-07-16,"$86,000",INACTIVE,robert.green13@gmail.com
+1017,Lisa,Allen,Sale,male,28,2021-09-05,49000.0 USD,Inactive,lisa.allen17@outlook.com
+1059,Barbara,White,Sales,female,39,2010-12-12,,ON LEAVE,barbara.white59@yahoo.com
+1204,Ava,Jones,FINANCE,Male,32,28-08-2018,117000.0 USD,In-active,ava.jones4@company.org
+1932,Susan,Davis,Marketing,Female,38,,52000,active,
+1353,Logan,White,marketing,MALE,31 years,,,active,logan.white53@yahoo.com
+1300,Charlotte,Brown,Enginering,Female,39,2012-12-26,75000,ON LEAVE,charlotte.brown0outlook.com
+1554,Emma,Martin,finance,male,51 years,2017-11-04,73000,Inactive,emma.martin54@outlook.com
+1544,Olivia,Garcia,Eng,M,56,2023-04-24,59000,Inactive,olivia.garcia44@company.org
+1330,Charlotte,Davis,HR,male,,2011-03-22,41000,Inactive,CHARLOTTE.DAVIS30@COMPANY.ORG
+1754,Emma,Hall,hr,Female,58,2022-06-23,78000,On Leave,emma.hall54@yahoo.com
+1060,Richard,Brown,HR,male,63,2020-10-01,"$62,000",On Leave,richard.brown60@gmail.com
+1055,William,Hall,sales,M,50 years,2010-10-12,135000,Inactive,william.hall55@yahoo.com
+1284,Logan,Wright,Marketing,f,47,2022-01-20,89000,Active,logan.wright84@company.org
+1404,Charlotte,Garcia,SALES,FEMALE,48,2015-11-22,,inactive,charlotte.garcia4@yahoo.com
+1323,Lisa,Jackson,Saless,m,43,25-08-2011,103000,Inactive,lisa.jackson23@outlook.com
+1625,Mia,Smith,Markting,f,,2011-01-10,54000.0 USD,In-active,mia.smith25yahoo.com
+1885,Patricia,Scott,Marketing,male,39,08/15/2010,70000,On Leave,patricia.scott85@company.org
+1151,Mason,Wright,engineering,F,46,2011-12-26,,Inactive,mason.wright51gmail.com
+1680,Noah,Hall,Sales,m,57,2022-02-18,46000,On Leave,noah.hall80@yahoo.com
+1318,James,Williams,Sale,female,,2020-08-12,,Active,james.williams18@yahoo.com
+1528,Jessica,Allen,Engineering,M,60,2020-09-25,-101000,ON LEAVE,jessica.allen28@outlook.com
+1897,Jennifer,Thomas,Engineering,MALE,,2016-08-07,-86000,ON LEAVE,jennifer.thomas97@yahoo.com
+1334,David,Lewis,Finance,Male,999,2017-04-19,87000,INACTIVE,DAVID.LEWIS34@COMPANY.ORG
+1082,Noah,Jones,Engineering,Male,52 years,03/25/2021,,Inactive,noah.jones82@company.org
+1160,Patricia,Garcia,Engineering,m,51 years,2023-05-25,,Inactive,patricia.garcia60@outlook.com
+1451,David,Wilson,Engineering,Male,26,,38000,Inactive,david.wilson51company.org
+1661,Mia,Jackson,Sales,Female,56,2011-12-25,,Inactive,mia.jackson61@gmail.com
+1470,Patricia,Wilson,Sales,Male,55,2022-01-13,62000,inactive,patricia.wilson70@outlook.com
+1117,Sarah,Scott,Saless,F,56,1/5/2013,64000,Inactive,sarah.scott17@outlook.com
+1819,Sarah,Wright,HR,FEMALE,63 years,11/18/2020,,Inactive,
+1420,Sarah,Young,HR,FEMALE,51,2023-10-10,35000,Inactive,sarah.young20@yahoo.com
+2079,Mary,Jackson,HR,Female,63,,47000,Inactive,mary.jackson79@outlook.com
+1843,Logan,Jackson,Eng,Male,,2018-05-23,69000,Inactive,logan.jackson43@gmail.com
+1255,William,Thomas,Marketing,f,53,08/10/2022,36000,on leave,william.thomas55@gmail.com
+1347,Liam,Jackson,Markting,Male,44.5,2014-08-28,79000,Inactive,liam.jackson47@gmail.com
+2025,Richard,Miller,hr,m,25,1/25/2020,,active,richard.miller25@outlook.com
+1886,William,Thomas,Sales,male,53,2021-11-27,146000,On Leave,   william.thomas86@company.org  
+1717,Susan,Miller,Finance,female,35,02/28/2015,103000,In-active,susan.miller17yahoo.com
+1906,Michael,Taylor,Sales,m,51,2016-10-17,57000,Inactive,
+1357,James,Scott,Sales,male,52,2015-12-19,143000,ON LEAVE,james.scott57@yahoo.com
+1201,David,Anderson,Marketing,FEMALE,27,2015-06-06,69000,ON LEAVE,david.anderson1@gmail.com
+1566,Liam,Miller,Sales,M,28,2014-11-22,116000.0 USD,Inactive,liam.miller66@company.org
+1467,Lisa,Scott,HR,Male,,06/27/2022,116000,INACTIVE,lisa.scott67@yahoo.com
+1597,Thomas,Wilson,sales,FEMALE,999,2019-04-12,126000,On Leave,thomas.wilson97@gmail.com
+1333,Olivia,Wilson,Engineering,FEMALE,58 years,05-05-2010,39000,ACTIVE,olivia.wilson33gmail.com
+1338,Ethan,Walker,SALES,female,63,2018-12-03,,Inactive,ethan.walker38@yahoo.com
+1597,Thomas,Wilson,sales,FEMALE,999,2019-04-12,126000,On Leave,thomas.wilson97@gmail.com
+1556,Linda,Jones,Markting,MALE,48.5,2020-08-22,148000,On Leave,linda.jones56@gmail.com
+1978,James,Thompson,Engineering,Female,55,,106000,On Leave,
+1421,Charlotte,Taylor,sales,Male,58,05/03/2011,103000,On Leave,charlotte.taylor21@company.org
+1627,Michael,Jones,Financee,Female,,2019-05-26,108000,inactive,michael.jones27company.org
+1854,Robert,Davis,Finance,Male,56,2011-05-09,,inactive,robert.davis54outlook.com
+1830,,Miller,Finance,FEMALE,26 years,,130000,ON LEAVE,david.miller30@company.org
+1573,Karen,Hall,Sales,Female,40,,47000,On Leave,KAREN.HALL73@OUTLOOK.COM
+1807,Noah,Miller,Marketing,m,31,2021-12-18,47000,Activ,noah.miller7@outlook.com
+1792,Michael,Martin,HR,F,0,2012-02-12,50000,Inactive,michael.martin92@gmail.com
+1617,Logan,Johnson,Eng,Female,36 years,2020-12-08,38000,Inactive,   logan.johnson17@gmail.com  
+1585,Patricia,Jones,Engineering,FEMALE,25,2013-08-03,147000,On Leave,patricia.jones85@gmail.com
+1575,Charlotte,Harris,HR,Male,47,2017-03-27,73000,Active,charlotte.harris75@yahoo.com
+1049,Sarah,Lewis,HR,MALE,42,8/23/2021,,Inactive,sarah.lewis49company.org
+1028,Jennifer,Jones,Engineering,m,31 years,2021-04-03,123000,Inactive,jennifer.jones28@company.org
+1743,Olivia,Scott,Marketing,Male,39,,71000,Inactive,
+1227,Liam,Thompson,SALES,m,32,2022-09-05,122000,On Leave,liam.thompson27@company.org
+1987,Mia,Wilson,Sales,FEMALE,42 years,2021-05-08,126000,On Leave,mia.wilson87@yahoo.com
+1543,Thomas,Young,Engineering,Female,,2010-07-01,46000,Active,thomas.young43@yahoo.com
+1855,,Thompson,Engineering,Female,62,,89000,Inactive,
+1413,Jessica,Garcia,HR,m,44,2011-01-14,105000,In-active,jessica.garcia13@company.org
+1591,Ethan,Brown,Sales,Female,,2019-07-10,-69000,Active,ethan.brown91@gmail.com
+1129,William,Wright,Sales,Female,49,11-02-2013,47000,Inactive,william.wright29@company.org
+1665,Lisa,Jones,FINANCE,Male,54,2021-09-13,81000,inactive,lisa.jones65@company.org
+1311,Mia,Wright,Marketing,Male,,2012-12-24,96000,On Leave,mia.wright11@outlook.com
+1295,Mia,Martin,Sales,Male,62,9/11/2017,54000.0 USD,Inactive,mia.martin95@company.org
+1456,Ava,Miller,HR,MALE,39,2020-10-12,119000,Inactive,ava.miller56@gmail.com
+1644,Mary,Davis,Finance,Male,45 years,09/27/2015,,Activ,mary.davis44@gmail.com
+1408,Thomas,Davis,marketing,Female,25,2023-06-09,49000,On Leave,
+1845,Karen,Lewis,Engineering,f,60.5,2019-10-12,142000,on leave,karen.lewis45@gmail.com
+1546,Emma,Hall,HR,M,22,,73000,In-active,emma.hall46@gmail.com
+1212,David,Taylor,Marketing,m,40,2013-09-02,123000,Active,david.taylor12@outlook.com
+1660,Sarah,Allen,Finance,female,,2017-09-21,136000,In-active,sarah.allen60@gmail.com
+1831,Liam,Hall,marketing,f,22,2015-08-03,142000,On Leave,liam.hall31@yahoo.com
+1166,Jennifer,Lewis,finance,Female,,2013-11-15,37000,Active,jennifer.lewis66@yahoo.com
+2065,Noah,Smith,Marketing,f,32,2010-06-20,"$137,000",inactive,noah.smith65@company.org
+1595,Susan,Harris,HR,m,51,6/16/2010,36000.0 USD,Inactive,
+1568,Charles,Smith,HR,M,,01/16/2011,71000,Active,charles.smith68@outlook.com
+1615,David,Young,Engineering,Male,43,2012-10-18,113000.0 USD,On Leave,
+1341,William,Martin,Marketing,Female,63,5/7/2010,129000,Inactive,william.martin41@gmail.com
+1636,Richard,Scott,Engineering,Female,40 years,2012-05-05,83000.0 USD,Activ,   richard.scott36@outlook.com  
+1326,William,Smith,engineering,MALE,-5,2017-10-06,140000,Inactive,william.smith26@gmail.com
+1656,Sophia,Miller,Engineering,M,33,3/25/2023,72000,on leave,sophia.miller56@company.org
+1459,Isabella,Scott,Marketing,male,0,2022-01-17,75000.0 USD,Inactive,isabella.scott59@company.org
+1077,Lisa,Hall,hr,Male,27,,125000,On Leave,lisa.hall77@outlook.com
+1159,James,Davis,Saless,female,31.5,2012-01-18,84000,Inactive,james.davis59@company.org
+1493,Jennifer,Taylor,hr,Female,27,2011-12-08,116000,active,jennifer.taylor93@gmail.com
+1073,Logan,Harris,Finance,FEMALE,58,2020-11-20,147000,On Leave,logan.harris73@outlook.com
+1257,,Wright,FINANCE,F,23,,,Inactive,
+1533,Noah,Walker,HR,MALE,52.5,,129000,on leave,noah.walker33@gmail.com
+1698,Sarah,Jackson,Eng,FEMALE,34,2013-06-03,110000,Inactive,SARAH.JACKSON98@YAHOO.COM
+2051,Jennifer,Lewis,Finance,MALE,999,,,Activ,JENNIFER.LEWIS51@OUTLOOK.COM
+1720,Michael,Thompson,Sales,F,58,17-09-2021,,ON LEAVE,michael.thompson20@company.org
+1331,Ethan,Johnson,sales,Male,32.5,01/16/2022,57000,On Leave,ethan.johnson31@gmail.com
+1893,Barbara,,MARKETING,Male,31 years,2011-11-27,104000.0 USD,INACTIVE,barbara.smith93@yahoo.com
+1310,Ethan,Thompson,HR,Female,36,2012-07-20,"$80,000",Inactive,ethan.thompson10@gmail.com
+1340,Liam,Allen,sales,M,27,2016-03-10,46000,Inactive,liam.allen40@gmail.com
+1427,Linda,Allen,Finance,FEMALE,,01/24/2022,81000,Inactive,
+1992,James,Walker,Sales,Female,,,,inactive,james.walker92@outlook.com
+1946,Sophia,Lewis,HR,Male,59,,40000,Inactive,sophia.lewis46@gmail.com
+1268,Noah,Allen,Engineering,Female,-5,2018-06-28,150000.0 USD,Inactive,noah.allen68@outlook.com
+1438,Richard,Young,HR,Female,,2020-04-02,111000.0 USD,inactive,richard.young38@yahoo.com
+1395,Logan,Taylor,FINANCE,female,65,05/03/2016,121000,On Leave,
+1229,Thomas,Lewis,Finance,MALE,46,2015-10-21,118000,inactive,thomas.lewis29@gmail.com
+1701,Logan,Wright,HR,F,999,,116000,INACTIVE,logan.wright1outlook.com
+1371,Jessica,White,Markting,female,38,10/8/2020,,on leave,jessica.white71@company.org
+1050,Ethan,Smith,engineering,Female,26,5/11/2017,54000,On Leave,ethan.smith50@company.org
+1928,Olivia,Jones,Fin,FEMALE,28,2013-08-04,134000,inactive,olivia.jones28@yahoo.com
+1223,Ethan,Hall,Finance,male,,2014-02-07,120000,Inactive,ethan.hall23@company.org
+1455,Michael,Allen,Enginering,MALE,54 years,2011-06-11,,INACTIVE,michael.allen55yahoo.com
+1526,Karen,Williams,Fin,M,52,1/11/2010,136000,ON LEAVE,karen.williams26@gmail.com
+1624,Liam,Lewis,Engineering,M,65,2013-10-23,101000,Inactive,liam.lewis24@outlook.com
+1142,Lucas,,Engineering,FEMALE,53.5,2020-09-23,,INACTIVE,
+1264,Ava,Miller,finance,f,61,06/14/2014,,On Leave,ava.miller64@outlook.com
+1302,William,Williams,HR,male,65,2020-12-25,74000,inactive,william.williams2@company.org
+1762,William,Thompson,Marketing,Female,62,,131000,Inactive,william.thompson62@outlook.com
+2046,Lisa,Walker,Sale,FEMALE,59,2013-10-08,"$112,000",ON LEAVE,   lisa.walker46@outlook.com  
+1628,Emma,Williams,Sale,Male,50,2016-11-16,"$138,000",On Leave,emma.williams28@outlook.com
+1997,Jessica,White,Saless,f,56,2014-11-20,44000,Active,jessica.white97@gmail.com
+1126,Thomas,,Marketing,Female,,2017-10-08,82000,Active,thomas.thomas26@yahoo.com
+1402,Karen,Jones,finance,m,,,41000,On Leave,karen.jones2@gmail.com
+1133,Richard,Harris,Sales,MALE,47 years,10/13/2015,35000,Inactive,richard.harris33@outlook.com
+1754,Emma,Hall,hr,Female,58,2022-06-23,78000,On Leave,emma.hall54@yahoo.com
+1218,David,Green,Finance,male,35,2020-11-25,43000,On Leave,david.green18@yahoo.com
+1458,Joseph,Thompson,Finance,m,61,10-02-2022,,active,joseph.thompson58yahoo.com
+1764,Thomas,Jackson,Saless,Female,,2019-11-22,-38000,Inactive,THOMAS.JACKSON64@COMPANY.ORG
+1730,Emma,Thomas,Sales,Male,,2010-07-01,122000,Activ,
+1154,Logan,Jackson,Sales,MALE,60,09/01/2011,116000,Inactive,logan.jackson54@outlook.com
+1173,Susan,Wright,Fin,female,59,2023-03-13,120000,Active,susan.wright73@outlook.com
+1376,Sarah,Harris,hr,Male,41,2011-04-10,67000,INACTIVE,
+1756,Patricia,Martin,Eng,MALE,42,2015-10-16,35000,ON LEAVE,patricia.martin56@yahoo.com
+1998,Noah,Jones,Sales,f,24,2010-07-16,44000,Inactive,
+1199,Lucas,Taylor,Engineering,Male,35,2021-08-11,98000,On Leave,lucas.taylor99yahoo.com
+1907,Charlotte,Thompson,Finance,F,30,2024-06-18,55000,Inactive,charlotte.thompson7@company.org
+1745,Jennifer,Garcia,Sales,Male,65,2013-04-02,"$90,000",Active,jennifer.garcia45@gmail.com
+1114,Jessica,Lewis,Sales,MALE,26,2018-01-03,79000,inactive,jessica.lewis14@company.org
+1379,Emma,Harris,hr,MALE,65,2019-06-26,"$57,000",INACTIVE,emma.harris79@outlook.com
+1592,Mason,Young,Sale,female,44,2024-01-20,104000.0 USD,Active,mason.young92@outlook.com
+1571,Ava,White,Sales,MALE,42,,91000,On Leave,ava.white71@outlook.com
+1296,Olivia,Williams,Engineering,f,46,2020-09-27,78000,active,olivia.williams96@yahoo.com
+1396,Sarah,White,finance,male,51,2012-08-14,73000,In-active,sarah.white96@gmail.com
+1858,Susan,Green,Marketing,m,-5,2010-09-14,,Inactive,susan.green58@company.org
+1345,Isabella,Anderson,Sales,Female,,,52000,Activ,isabella.anderson45@gmail.com
+2011,Patricia,Thomas,Finance,male,51,2015-07-19,93000,Inactive,
+1968,Olivia,,Markting,F,45,05/14/2014,,Inactive,olivia.garcia68@gmail.com
+1609,Thomas,Williams,engineering,female,29,2015-02-24,120000.0 USD,On Leave,thomas.williams9@yahoo.com
+2013,Jennifer,Miller,Sales,FEMALE,54,2010-06-13,-36000,Inactive,
+1254,,Hall,Finance,Female,62,12-05-2018,116000,On Leave,ethan.hall54@company.org
+1596,Karen,Wilson,hr,Male,33,2012-10-21,"$115,000",Active,karen.wilson96@gmail.com
+1677,Isabella,Taylor,SALES,F,,14-12-2015,"$147,000",Active,isabella.taylor77@yahoo.com
+2068,Barbara,Hall,HR,M,40,2020-03-02,127000.0 USD,On Leave,barbara.hall68@company.org
+1634,Karen,Williams,ENGINEERING,F,,2013-12-17,70000,Inactive,karen.williams34@company.org
+1322,Sophia,Lewis,Sales,Female,47,2023-12-25,90000,Inactive,sophia.lewis22@gmail.com
+1380,Joseph,Williams,HR,male,32 years,2010-07-20,124000,Inactive,
+1386,David,Wright,HR,Female,,2010-08-12,,ACTIVE,DAVID.WRIGHT86@COMPANY.ORG
+1437,William,Jackson,SALES,Female,51,,74000,Active,william.jackson37outlook.com
+1197,Thomas,Green,Finance,MALE,64,2011-11-27,-41000,On Leave,thomas.green97gmail.com
+1048,Charlotte,Wilson,Sales,FEMALE,59,2019-11-16,73000.0 USD,ON LEAVE,charlotte.wilson48@yahoo.com
+1719,Isabella,Brown,Financee,Male,45,2012-04-27,,INACTIVE,isabella.brown19@company.org
+1012,Richard,Young,HR,Male,39,,58000,Inactive,
+1443,Thomas,Smith,Marketing,Female,-5,2016-10-25,135000,inactive,thomas.smith43@gmail.com
+1691,Michael,Davis,Engineering,f,64 years,2014-06-23,128000,Inactive,michael.davis91@company.org
+1839,,Jones,SALES,M,24,2021-02-22,130000,active,sarah.jones39@company.org
+1748,Jennifer,Allen,HR,Male,27,10/25/2015,121000,On Leave,jennifer.allen48@outlook.com
+1965,Isabella,Taylor,Financee,Female,27,08/25/2017,114000,ON LEAVE,isabella.taylor65company.org
+1063,Isabella,Williams,Sales,f,26,,53000,ON LEAVE,isabella.williams63@outlook.com
+1240,David,Williams,marketing,f,47,2016-10-07,120000,INACTIVE,david.williams40@gmail.com
+1816,Richard,Garcia,HR,female,59,10/27/2014,69000,active,richard.garcia16@gmail.com
+1399,Olivia,Harris,ENGINEERING,Male,43,2024-10-28,-122000,On Leave,olivia.harris99@company.org
+1394,Thomas,Anderson,Engineering,Male,60 years,2014-11-04,,INACTIVE,thomas.anderson94@company.org
+1955,Thomas,Anderson,Sales,M,30,2021-10-22,113000,Activ,thomas.anderson55@yahoo.com
+1898,Logan,Jackson,FINANCE,m,49,,"$108,000",On Leave,logan.jackson98@yahoo.com
+1265,Michael,Johnson,Finance,female,,2019-12-19,97000,On Leave,michael.johnson65@outlook.com
+1847,Joseph,Scott,engineering,Male,24,,47000,Inactive,joseph.scott47@company.org
+1003,Ethan,Young,Saless,Female,40.5,,"$105,000",Active,ETHAN.YOUNG3@OUTLOOK.COM
+1612,Mia,Thompson,Engineering,FEMALE,,2020-08-16,,Inactive,mia.thompson12@company.org
+1057,James,Wilson,Finance,Male,65,2021-11-09,82000,inactive,james.wilson57@company.org
+1304,Lisa,Young,HR,Female,37,2019-04-18,"$87,000",ON LEAVE,lisa.young4@yahoo.com
+1880,Charles,Smith,Marketing,f,31,2024-12-19,50000,on leave,charles.smith80company.org
+1233,Ethan,Walker,Finance,Male,46,02/01/2012,83000,INACTIVE,ethan.walker33@yahoo.com
+1515,Charles,Brown,FINANCE,Female,36,2010-04-14,"$35,000",Inactive,charles.brown15@company.org
+1485,Logan,Williams,Finance,MALE,29 years,10/23/2012,,inactive,logan.williams85yahoo.com
+1474,Ethan,Garcia,HR,Male,,2013-04-07,119000,Inactive,ethan.garcia74@yahoo.com
+1150,David,Johnson,HR,FEMALE,150,,,On Leave,david.johnson50@gmail.com
+2022,Lisa,Green,Marketing,Female,,2017-10-14,126000,Active,lisa.green22@yahoo.com
+1944,Isabella,Thomas,Finance,M,54,2015-08-01,,On Leave,
+1193,Charlotte,Brown,HR,female,31 years,,41000,INACTIVE,charlotte.brown93@company.org
+1532,Robert,Davis,HR,female,44,2017-08-21,,On Leave,robert.davis32@company.org
+1281,William,White,Engineering,Male,57,2018-12-04,43000,Inactive,william.white81@yahoo.com
+1537,Isabella,,Finance,M,34,2016-12-18,62000,Activ,
+1689,David,Garcia,Sales,MALE,36,2011-07-03,149000,Inactive,
+1670,James,Lewis,HR,Male,50,11/07/2022,148000,On Leave,james.lewis70@company.org
+1938,Sarah,Young,Finance,Male,62,,,On Leave,sarah.young38@gmail.com
+1891,Michael,Hall,Engineering,Female,-5,2019-09-11,88000,On Leave,michael.hall91@company.org
+1963,Joseph,White,Marketing,f,51 years,2018-06-27,41000.0 USD,on leave,joseph.white63@yahoo.com
+1107,David,White,HR,female,40,,60000,On Leave,david.white7@gmail.com
+1450,Michael,Jackson,Saless,MALE,62,2018-05-22,,Active,michael.jackson50@gmail.com
+1001,Linda,Smith,Marketing,Male,28,,"$52,000",active,LINDA.SMITH1@GMAIL.COM
+1169,Mary,Green,marketing,Male,44,2022-10-08,102000.0 USD,inactive,
+2074,Michael,Hall,Engineering,Male,,1/8/2010,129000,ACTIVE,MICHAEL.HALL74@COMPANY.ORG
+2095,Sophia,Brown,Finance,f,61.5,,,Inactive,sophia.brown95@gmail.com
+2070,Linda,Wright,Marketing,Male,48.5,2018-08-13,,Inactive,
+1444,Ethan,Anderson,Sales,f,48,2013-08-15,89000.0 USD,ACTIVE,ethan.anderson44@gmail.com
+1586,Michael,Johnson,HR,Male,49,2017-05-26,79000,on leave,michael.johnson86@yahoo.com
+1478,Joseph,Martin,HR,M,31 years,2021-11-28,71000,On Leave,joseph.martin78@gmail.com
+1983,James,Wright,Finance,Male,26,08-07-2020,"$41,000",On Leave,james.wright83@outlook.com
+2064,Emma,Allen,Markting,F,22,,59000,Inactive,emma.allen64@yahoo.com
+1373,Liam,Allen,Sales,Female,30,19-02-2013,142000.0 USD,On Leave,liam.allen73gmail.com
+1755,Mia,Smith,Marketing,Male,31,06/03/2019,,INACTIVE,mia.smith55@company.org
+1710,Ava,Scott,marketing,F,45,04/11/2015,"$90,000",Inactive,ava.scott10@outlook.com
+1086,Richard,Johnson,Marketing,Female,56,05/02/2017,85000,On Leave,richard.johnson86@yahoo.com
+1800,Susan,Davis,HR,F,26,02/20/2013,101000,Active,
+2069,Michael,Davis,finance,male,58,2018-04-23,,ACTIVE,michael.davis69@yahoo.com
+1984,Emma,Scott,MARKETING,Male,53 years,2018-11-27,"$46,000",In-active,emma.scott84@yahoo.com
+1687,John,Johnson,Finance,male,40,2015-10-14,119000,On Leave,JOHN.JOHNSON87@YAHOO.COM
+2018,Liam,Allen,Finance,Female,45,2021-05-12,38000,INACTIVE,liam.allen18@company.org
+1076,Ava,White,Marketing,Male,43,06/04/2011,117000,On Leave,
+1600,Patricia,Walker,HR,Female,34.5,2023-10-10,"$69,000",INACTIVE,patricia.walker0@yahoo.com
+1652,John,Walker,HR,M,39,2010-07-07,71000,ON LEAVE,
+1141,Ava,Walker,HR,Male,,3/27/2019,,Inactive,AVA.WALKER41@OUTLOOK.COM
+1757,Linda,Taylor,Sales,M,54.5,,"$137,000",ON LEAVE,linda.taylor57@company.org
+1829,Mary,Walker,Sales,Male,43,2012-09-27,53000,inactive,mary.walker29@yahoo.com
+1790,Linda,Scott,Marketing,MALE,62,2023-06-06,111000,In-active,linda.scott90@company.org
+1760,William,Martin,sales,M,28,,,inactive,william.martin60@yahoo.com
+1828,Susan,Brown,HR,F,,09/04/2017,-99000,active,susan.brown28@company.org
+1469,Richard,Wilson,HR,FEMALE,28,2023-11-06,114000.0 USD,On Leave,richard.wilson69@gmail.com
+1533,Noah,Walker,HR,MALE,52.5,,129000,on leave,noah.walker33@gmail.com
+1259,Linda,Green,Engineering,FEMALE,24.5,8/24/2013,66000,Inactive,linda.green59@gmail.com
+1769,Mary,Johnson,HR,Female,999,2010-10-02,"$87,000",Inactive,MARY.JOHNSON69@GMAIL.COM
+1695,Charlotte,Garcia,HR,Male,65,,142000,ACTIVE,charlotte.garcia95@outlook.com
+1635,Jennifer,Brown,SALES,male,,2015-10-21,-46000,On Leave,JENNIFER.BROWN35@GMAIL.COM
+1230,Charlotte,Jones,hr,M,,07-05-2020,44000,Active,charlotte.jones30@yahoo.com
+1678,Charles,Wright,Saless,M,42,06/25/2023,"$146,000",In-active,charles.wright78@company.org
+1224,Lisa,Wright,Finance,male,45,14-06-2022,107000,on leave,lisa.wright24@yahoo.com
+1708,Noah,Young,marketing,female,-5,2023-12-27,84000,In-active,   noah.young8@outlook.com  
+1568,Charles,Smith,HR,M,,01/16/2011,71000,Active,charles.smith68@outlook.com
+1868,Charlotte,Martin,Marketing,female,,,94000,Active,charlotte.martin68@gmail.com
+2053,Sophia,Young,Sale,Male,63 years,2015-12-23,136000,On Leave,
+1118,Joseph,White,Marketing,F,59,12/6/2024,106000,Active,joseph.white18@company.org
+1502,Barbara,Davis,Saless,Male,39,2013-03-14,-39000,Inactive,barbara.davis2@gmail.com
+1167,Ava,Allen,HR,m,33.5,2014-05-15,"$62,000",Inactive,ava.allen67@yahoo.com
+1514,,Wright,Sale,MALE,58,27-08-2024,"$96,000",ACTIVE,noah.wright14@yahoo.com
+1630,Ethan,Green,MARKETING,female,57 years,2024-04-13,-113000,In-active,ethan.green30@outlook.com
+1794,Joseph,Garcia,HR,Male,150,2012-02-19,113000,on leave,joseph.garcia94@outlook.com
+2009,Linda,Williams,HR,female,34,22-01-2021,112000,On Leave,linda.williams9@yahoo.com
+2066,Jessica,Garcia,Finance,female,,,64000,INACTIVE,jessica.garcia66@company.org
+1414,Charlotte,Hall,HR,FEMALE,31,2023-12-11,"$92,000",On Leave,charlotte.hall14@gmail.com
+1722,Emma,Scott,Sales,m,46,,73000,ACTIVE,EMMA.SCOTT22@GMAIL.COM
+1045,Sophia,Green,Finance,Male,,2014-06-04,46000,Inactive,sophia.green45@company.org
+1570,Lisa,Walker,Markting,male,65.5,,90000,On Leave,lisa.walker70@yahoo.com
+1448,Jessica,Taylor,HR,Female,58,2014-10-07,112000,ACTIVE,JESSICA.TAYLOR48@COMPANY.ORG
+1883,Charlotte,White,finance,Female,25,2011-07-17,43000,inactive,charlotte.white83@yahoo.com
+1575,Charlotte,Harris,HR,Male,47,2017-03-27,73000,Active,charlotte.harris75@yahoo.com
+1299,John,,Financee,F,41,,108000.0 USD,Active,john.brown99yahoo.com
+1861,Patricia,Wilson,Sale,Male,55,2011-09-17,"$67,000",Inactive,patricia.wilson61@gmail.com
+1034,Ethan,Wright,Engineering,Female,55,2020-05-20,128000.0 USD,Active,
+1113,Isabella,Brown,Engineering,FEMALE,54,2017-01-15,,Active,isabella.brown13@yahoo.com
+1091,William,Williams,HR,Male,27.5,28-11-2022,91000,On Leave,william.williams91outlook.com
+1449,Logan,Harris,HR,Male,40 years,2020-08-12,46000,on leave,logan.harris49@outlook.com
+1237,Liam,Young,finance,FEMALE,,2015-12-13,74000,Inactive,liam.young37@yahoo.com
+1524,Jessica,Jackson,Finance,M,33,12/18/2023,85000,Active,jessica.jackson24@gmail.com
+1569,Barbara,Williams,Marketing,M,49,2019-02-10,60000,on leave,barbara.williams69@yahoo.com
+1920,Sophia,Scott,Sales,m,24,2014-09-16,39000,Active,sophia.scott20@company.org
+1995,Susan,Thomas,Finance,Female,61,2015-01-15,116000,Inactive,susan.thomas95@outlook.com
+1320,Emma,Wilson,Eng,male,25,07/11/2016,,Inactive,emma.wilson20@gmail.com
+2075,Sophia,Miller,Sales,m,24,2015-03-09,,Inactive,sophia.miller75@yahoo.com
+1513,,Scott,SALES,Male,23,2011-01-25,84000.0 USD,Inactive,william.scott13@gmail.com
+1010,Joseph,Lewis,Engineering,m,62,2010-04-03,125000.0 USD,Activ,joseph.lewis10@gmail.com
+1820,Thomas,Jackson,Engineering,Female,47,2022-12-28,119000,INACTIVE,thomas.jackson20@outlook.com
+2012,Robert,Martin,marketing,F,32,2019-12-17,40000,on leave,
+1475,Thomas,Allen,HR,Male,56,2020-12-16,52000,on leave,thomas.allen75@gmail.com
+1594,Karen,Williams,Eng,Female,47,10/09/2010,108000,Inactive,karen.williams94@outlook.com
+1130,Ava,Williams,FINANCE,F,,5/5/2011,,inactive,ava.williams30@company.org
+1989,John,Jones,Marketing,F,33,8/10/2011,122000,Active,john.jones89@yahoo.com
+1527,Michael,Anderson,HR,Male,31 years,2010-10-26,138000.0 USD,On Leave,michael.anderson27@company.org
+1439,Logan,Miller,Sales,FEMALE,26,2012-09-13,113000.0 USD,on leave,logan.miller39@outlook.com
+1491,Karen,Walker,Sales,male,46,06/26/2012,,Inactive,karen.walker91company.org
+1731,Ava,Taylor,Finance,FEMALE,37,20-08-2020,130000,inactive,   ava.taylor31@outlook.com  
+2055,,Harris,Marketing,Male,30,,60000.0 USD,ACTIVE,SUSAN.HARRIS55@YAHOO.COM
+1293,Logan,,finance,Male,34,2/1/2010,72000,On Leave,logan.garcia93@company.org
+1903,Logan,Thompson,Marketing,female,23,,"$76,000",On Leave,logan.thompson3@company.org
+1441,Olivia,Davis,Finance,M,61,07/15/2015,100000.0 USD,Inactive,OLIVIA.DAVIS41@COMPANY.ORG
+1877,Charles,Young,Finance,female,,,148000.0 USD,ACTIVE,charles.young77@outlook.com
+1094,Patricia,Brown,Finance,Male,32,2015-12-08,56000.0 USD,Inactive,patricia.brown94outlook.com
+1884,Patricia,Walker,Marketing,Male,60,2011-12-11,115000,inactive,patricia.walker84@gmail.com
+1875,Sarah,Martin,Finance,Male,35,2013-11-12,40000,INACTIVE,
+1621,Mia,Thompson,FINANCE,M,53,10-07-2014,133000,Active,MIA.THOMPSON21@OUTLOOK.COM
+1842,,Martin,Financee,Male,150,08-11-2014,93000,On Leave,james.martin42@company.org
+1848,Thomas,,Finance,Male,,2018-03-22,95000,INACTIVE,THOMAS.WALKER48@GMAIL.COM
+1604,Michael,Scott,Sales,Male,50,2024-07-21,80000,On Leave,michael.scott4@company.org
+1038,Charles,,Eng,Female,33,2014-01-23,81000.0 USD,Active,charles.brown38@yahoo.com
+1702,Logan,Davis,Finance,Female,28,2022-12-16,,On Leave,
+1623,Linda,Johnson,HR,F,55.5,2017-03-24,115000,active,linda.johnson23@company.org
+1873,Sophia,Walker,sales,Male,65,,54000.0 USD,inactive,sophia.walker73@yahoo.com
+1640,Mason,Scott,HR,female,45,16-06-2019,,Active,mason.scott40@company.org
+1823,Richard,White,Sales,F,57,2014-09-25,110000,On Leave,richard.white23@company.org
+1354,Isabella,Walker,Financee,Female,41.5,12/27/2010,125000,ACTIVE,isabella.walker54@gmail.com
+1913,James,Williams,Finance,m,53,2012-04-23,68000,inactive,james.williams13@company.org
+1958,Mason,Thomas,HR,female,,08/26/2019,103000,Inactive,mason.thomas58@outlook.com
+2090,Thomas,Jones,Finance,M,39,06/14/2020,-96000,Inactive,thomas.jones90@company.org
+1308,Mary,Davis,HR,FEMALE,46,2016-07-14,"$75,000",on leave,mary.davis8@yahoo.com
+1667,James,Scott,Finance,Male,45,2020-01-13,60000,ON LEAVE,james.scott67@gmail.com
+2100,David,Lewis,HR,M,35,2023-07-05,,INACTIVE,
+1419,Lucas,Hall,Eng,MALE,59,02/08/2020,,Inactive,lucas.hall19@yahoo.com
+1975,Michael,Johnson,Sales,M,23,,133000,On Leave,
+1134,Sophia,Anderson,Marketing,f,37,2015-07-09,135000,on leave,sophia.anderson34@company.org
+1911,Logan,Jones,HR,male,62,2022-08-24,,Inactive,logan.jones11@outlook.com
+1810,Barbara,White,finance,FEMALE,26,,35000,ACTIVE,barbara.white10@company.org
+1781,Liam,Hall,finance,Male,24,2014-07-18,95000,INACTIVE,liam.hall81@company.org
+1362,,Jones,Markting,Male,999,2022-08-26,119000,In-active,emma.jones62@company.org
+1431,Ethan,Jackson,HR,F,,2015-11-22,"$114,000",On Leave,
+1727,Michael,Brown,Enginering,m,27 years,2022-12-26,58000,INACTIVE,
+1971,Thomas,Garcia,MARKETING,male,,2020-04-19,141000,Activ,thomas.garcia71@company.org
+1797,Ava,Garcia,hr,m,44,2016-05-08,75000,In-active,ava.garcia97@outlook.com
+1503,Patricia,Thompson,hr,Male,,2015-05-12,,inactive,PATRICIA.THOMPSON3@COMPANY.ORG
+1185,Jennifer,Miller,HR,Male,53,2022-09-28,,inactive,jennifer.miller85@outlook.com
+1616,Richard,Garcia,Finance,f,,2022-03-12,"$64,000",On Leave,richard.garcia16@outlook.com
+1457,David,Wilson,SALES,Female,46,2020-12-05,124000,On Leave,david.wilson57@outlook.com
+2052,Lucas,Garcia,Engineering,Male,150,2017-05-06,,active,lucas.garcia52@outlook.com
+1761,Sophia,Wright,Engineering,Male,32,2011-05-08,92000,Active,
+1018,Patricia,Williams,hr,f,,2022-03-21,35000,INACTIVE,patricia.williams18@outlook.com
+2091,Mia,Jones,Markting,Female,33,,58000,Active,mia.jones91@outlook.com
+1977,Mia,Johnson,Finance,M,57,2022-04-14,,Inactive,mia.johnson77@company.org
+1993,Mary,Jones,MARKETING,FEMALE,65,1/22/2016,91000,On Leave,mary.jones93@yahoo.com
+1713,Isabella,Taylor,Finance,F,,2022-09-14,64000,Inactive,isabella.taylor13@yahoo.com
+2032,Jessica,Wright,Eng,M,54,2010-11-04,126000,Active,jessica.wright32@outlook.com
+1351,Linda,Thomas,FINANCE,male,59,2010-03-11,55000.0 USD,Inactive,linda.thomas51@company.org
+1601,Lucas,Thomas,Saless,Female,26,2024-06-21,"$99,000",On Leave,lucas.thomas1@company.org
+1016,Michael,,Finance,male,30,2024-06-03,68000,On Leave,michael.williams16@yahoo.com
+1407,Olivia,Hall,HR,M,24,2018-06-13,,inactive,olivia.hall7@yahoo.com
+1643,Mia,Allen,HR,F,28,2016-03-11,66000,On Leave,
+1721,Logan,Smith,HR,m,,2019-07-10,"$106,000",Inactive,logan.smith21@company.org
+1675,William,Harris,Marketing,M,35.5,2020-12-09,60000,On Leave,WILLIAM.HARRIS75@OUTLOOK.COM
+1189,Jessica,Harris,Marketing,Female,22,27-11-2018,48000,On Leave,jessica.harris89@outlook.com
+1135,Jessica,Harris,Marketing,Male,,2012-11-10,121000,Inactive,jessica.harris35@yahoo.com
+1301,Michael,Jackson,Sales,M,33,2021-10-19,85000,inactive,michael.jackson1@company.org
+1309,William,Jones,SALES,male,31,2021-08-22,37000,On Leave,william.jones9@company.org
+1231,Mia,Martin,ENGINEERING,Male,48,,,On Leave,   mia.martin31@yahoo.com  
+1149,Patricia,Johnson,Saless,Female,32,01-08-2017,"$50,000",Inactive,patricia.johnson49@company.org
+1056,Karen,Garcia,MARKETING,Female,43,2022-02-15,130000,Inactive,karen.garcia56@gmail.com
+1729,Richard,Anderson,hr,M,,2019-09-10,,Inactive,
+1251,Emma,Anderson,Marketing,female,47 years,25-08-2014,117000,on leave,   emma.anderson51@outlook.com  
+1314,James,Scott,Sale,MALE,31,8/12/2020,129000,on leave,
+1973,Ava,Harris,HR,Female,23,11/20/2018,40000,Active,ava.harris73@company.org
+1794,Joseph,Garcia,HR,Male,150,2012-02-19,113000,on leave,joseph.garcia94@outlook.com
+1007,James,Allen,Sales,f,,2014-07-06,78000,on leave,james.allen7@company.org
+1486,John,Williams,Sale,f,32,2016-11-01,104000,INACTIVE,john.williams86@yahoo.com
+2077,Jessica,Miller,hr,FEMALE,54,2015-11-04,"$45,000",On Leave,jessica.miller77company.org
+1561,Linda,Davis,Sale,m,,2013-02-18,-108000,INACTIVE,linda.davis61@gmail.com
+1172,Barbara,Lewis,engineering,M,45 years,2011-06-23,,ON LEAVE,barbara.lewis72@company.org
+1888,David,Allen,Saless,Male,22,2016-02-08,,ON LEAVE,david.allen88@company.org
+1114,Jessica,Lewis,Sales,MALE,26,2018-01-03,79000,inactive,jessica.lewis14@company.org
+1632,Logan,Garcia,hr,MALE,23,,,active,
+1770,John,Lewis,HR,f,25,2014-06-03,-126000,ACTIVE,john.lewis70@outlook.com
+1418,Emma,Jones,HR,Female,,,-83000,Inactive,emma.jones18@yahoo.com
+1771,Lucas,Garcia,Finance,F,-5,5/5/2022,,Inactive,lucas.garcia71@company.org
+1324,Logan,,HR,Male,34,2010-12-19,39000,Active,logan.williams24@yahoo.com
+2087,Sarah,Walker,Finance,FEMALE,,06/14/2018,141000,INACTIVE,sarah.walker87@yahoo.com
+1026,Ava,Martin,hr,Male,22,2024-02-25,118000,Active,ava.martin26company.org
+1850,Patricia,Allen,HR,Male,24,2011-12-24,52000,On Leave,patricia.allen50yahoo.com
+1796,Mary,Young,Marketing,m,49,09/11/2022,-97000,On Leave,mary.young96outlook.com
+1146,David,Anderson,MARKETING,Female,54 years,2024-11-27,69000,ON LEAVE,DAVID.ANDERSON46@GMAIL.COM
+1723,Joseph,Wright,Marketing,male,53.5,2013-10-21,,On Leave,joseph.wright23@gmail.com
+1747,Lucas,Thompson,Marketing,Male,,4/17/2021,,inactive,lucas.thompson47@gmail.com
+1751,Susan,Miller,Sales,male,31,07-06-2014,95000,INACTIVE,SUSAN.MILLER51@GMAIL.COM
+1484,,Wilson,sales,Male,63,07/10/2021,96000,Inactive,mia.wilson84@yahoo.com
+1895,Karen,Davis,HR,Female,23,2012-03-02,"$146,000",On Leave,karen.davis95@outlook.com
+2092,Charles,Allen,Markting,female,60,2016-06-06,,ON LEAVE,   charles.allen92@gmail.com  
+1580,Sarah,Brown,engineering,Female,25,2019-05-04,43000,INACTIVE,sarah.brown80@gmail.com
+1390,Sophia,Taylor,Engineering,Male,49,2021-05-22,97000,INACTIVE,sophia.taylor90@yahoo.com
+1554,Emma,Martin,finance,male,51 years,2017-11-04,73000,Inactive,emma.martin54@outlook.com
+1728,Richard,Green,ENGINEERING,FEMALE,,2012-06-28,107000,Activ,richard.green28@outlook.com
+1112,Mia,Green,Finance,Male,60,2023-02-17,,Active,MIA.GREEN12@COMPANY.ORG
+1096,Charles,Hall,Marketing,FEMALE,65 years,2016-05-15,138000,INACTIVE,charles.hall96@gmail.com
+1165,Susan,Smith,hr,Female,57,02/15/2013,130000,On Leave,susan.smith65@gmail.com
+1176,Joseph,Garcia,HR,MALE,23,2015-05-04,72000,ACTIVE,
+1463,Susan,Wilson,HR,female,40 years,09/20/2016,93000,Inactive,
+2026,Barbara,Martin,engineering,Male,33,2015-08-22,74000.0 USD,Active,barbara.martin26yahoo.com
+1195,James,Anderson,Finance,male,22,12/08/2020,-121000,active,james.anderson95@yahoo.com
+1092,Susan,Thomas,Finance,M,30,2013-08-01,60000,In-active,
+1799,Richard,Johnson,HR,Female,36,2011-12-06,,Inactive,   richard.johnson99@gmail.com  
+1746,Patricia,Harris,engineering,male,34,18-03-2014,57000,ACTIVE,patricia.harris46@yahoo.com
+1222,Jessica,Scott,MARKETING,m,63 years,2023-09-05,"$150,000",INACTIVE,jessica.scott22@yahoo.com
+1896,Charles,Hall,engineering,F,61,2018-09-21,78000,On Leave,charles.hall96@gmail.com
+1027,Emma,Green,hr,Female,150,,92000,On Leave,   emma.green27@outlook.com  
+1694,Thomas,Williams,marketing,f,56,2/8/2012,38000.0 USD,On Leave,thomas.williams94@company.org
+1577,Ava,Smith,Finance,female,63,,117000,In-active,ava.smith77company.org
+1545,Linda,Brown,Enginering,Female,33,2011-02-16,149000,Inactive,linda.brown45@outlook.com
+1862,,Thompson,Sale,f,31,2/5/2020,66000,Inactive,   richard.thompson62@company.org  
+2083,Lisa,Williams,HR,F,57,2010-09-26,-37000,Inactive,lisa.williams83@company.org
+1765,Lisa,Wright,Enginering,Female,25,2020-11-08,,INACTIVE,LISA.WRIGHT65@OUTLOOK.COM
+1099,Logan,Walker,HR,Female,28,2016-03-09,,On Leave,   logan.walker99@outlook.com  
+1062,Robert,Martin,HR,F,,2017-09-08,110000,On Leave,robert.martin62@gmail.com
+1031,Lucas,Wilson,Sales,female,56,08-06-2010,130000,Activ,lucas.wilson31@gmail.com
+1321,Mason,Miller,Fin,Male,38,2011-01-03,,Inactive,mason.miller21@gmail.com
+1806,Sarah,Jones,sales,F,44,,41000,INACTIVE,sarah.jones6@company.org
+1488,Robert,Young,Marketing,f,32,2016-08-03,,inactive,robert.young88@outlook.com
+1738,Lucas,Garcia,finance,female,37,2011-11-05,70000,On Leave,lucas.garcia38@company.org
+1348,William,Lewis,Finance,Male,-5,2017-09-11,61000,INACTIVE,william.lewis48@gmail.com
+1011,Sarah,Martin,HR,Male,,2016-06-14,47000,Active,sarah.martin11@company.org
+1032,Ethan,Wright,Marketing,f,60,2021-12-04,112000,Active,ethan.wright32@yahoo.com
+1298,Lisa,Green,Marketing,Male,55.5,,,Active,lisa.green98@gmail.com
+1557,Jennifer,Thomas,Finance,Male,35,02/03/2021,"$117,000",On Leave,jennifer.thomas57company.org
+1949,Lucas,Wilson,Finance,male,58,2022-04-09,,Active,lucas.wilson49@company.org
+1857,Olivia,Anderson,HR,Male,40,2022-05-09,117000,on leave,olivia.anderson57@yahoo.com
+1370,Ethan,Wilson,Finance,female,62,2010-09-07,128000,on leave,ethan.wilson70@outlook.com
+1585,Patricia,Jones,Engineering,FEMALE,25,2013-08-03,147000,On Leave,patricia.jones85@gmail.com
+1072,Noah,Green,Engineering,male,29 years,2018-09-07,,On Leave,noah.green72@outlook.com
+1982,Thomas,Scott,Marketing,F,57 years,2015-11-10,48000,INACTIVE,thomas.scott82outlook.com
+1425,Logan,Wright,Finance,male,62,2016-02-28,"$60,000",Active,logan.wright25@outlook.com
+1401,Mary,Thomas,Marketing,Female,33,2023-09-02,"$55,000",On Leave,mary.thomas1@gmail.com
+1870,Robert,Brown,Finance,f,40,04/13/2013,104000,ACTIVE,robert.brown70@company.org
+1344,Linda,Smith,HR,FEMALE,42,2012-01-24,93000,Inactive,linda.smith44@outlook.com
+1990,Karen,Young,HR,M,50,2013-10-18,89000,On Leave,karen.young90@yahoo.com
+1033,Sarah,Brown,marketing,Male,24,2015-09-14,,ON LEAVE,sarah.brown33@outlook.com
+1815,Barbara,Johnson,sales,female,,2014-06-22,39000.0 USD,Inactive,barbara.johnson15@outlook.com
+1156,Barbara,Young,Marketing,Female,63,2020-11-03,,on leave,barbara.young56@outlook.com
+1768,Jessica,Brown,Sales,F,29,2011-12-08,36000,Active,jessica.brown68company.org
+1174,,Walker,Engineering,Male,43,2021-02-08,53000,Inactive,emma.walker74@outlook.com
+1778,James,Allen,Engineering,Male,26,2018-03-15,,On Leave,james.allen78@outlook.com
+1460,Joseph,Walker,HR,Female,62,02/28/2010,91000,Active,joseph.walker60company.org
+1409,Joseph,Thomas,Markting,F,58,2020-03-23,135000,On Leave,
+1939,Lisa,Hall,finance,FEMALE,60 years,2018-08-21,135000,Inactive,lisa.hall39@yahoo.com
+1153,Sarah,Wilson,Sale,m,60,10-10-2021,111000,On Leave,
+1805,Barbara,Harris,Financee,M,41,2016-04-05,-136000,On Leave,BARBARA.HARRIS5@GMAIL.COM
+1734,Ethan,Young,HR,F,35 years,3/16/2016,74000,On Leave,ethan.young34@gmail.com
+1052,Barbara,Davis,Financee,f,33,2012-03-03,"$122,000",on leave,barbara.davis52@company.org
+1758,Barbara,Harris,hr,MALE,42 years,2011-05-15,"$91,000",ON LEAVE,barbara.harris58outlook.com
+1391,Mason,Thomas,Finance,Male,49,2011-01-17,115000,Inactive,mason.thomas91@outlook.com
+1744,Sarah,Green,SALES,Male,22,2021-06-28,127000,In-active,sarah.green44@gmail.com
+1442,Jennifer,Taylor,Finance,M,999,02/12/2011,64000,inactive,jennifer.taylor42@gmail.com
+1539,Mason,Hall,marketing,Male,,2011-11-01,138000,Active,mason.hall39@company.org
+1392,Jennifer,Martin,Marketing,Male,,,,Active,jennifer.martin92@company.org
+1953,Robert,Green,Finance,Male,60,2018-10-25,68000,On Leave,
+1801,Robert,Williams,SALES,f,,2022-08-18,"$103,000",ACTIVE,robert.williams1@outlook.com
+1037,Mason,Scott,finance,F,51,2014-05-09,124000,Inactive,MASON.SCOTT37@YAHOO.COM
+1053,Charles,Allen,Fin,Male,44,2019-05-21,"$91,000",Inactive,CHARLES.ALLEN53@COMPANY.ORG
+1749,Lisa,Green,HR,FEMALE,34.5,2013-10-06,130000,On Leave,lisa.green49@gmail.com
+1547,Mary,Young,SALES,Male,45,2011-04-01,145000.0 USD,ACTIVE,mary.young47@outlook.com
+1111,Sarah,Johnson,sales,F,47,2020-09-23,"$55,000",Inactive,sarah.johnson11@outlook.com
+1760,William,Martin,sales,M,28,,,inactive,william.martin60@yahoo.com
+1798,Mary,Jackson,Finance,FEMALE,999,2017-07-24,83000.0 USD,INACTIVE,mary.jackson98company.org
+2027,Jennifer,Martin,ENGINEERING,Male,34,2016-10-12,"$50,000",INACTIVE,JENNIFER.MARTIN27@OUTLOOK.COM
+1818,Lisa,Allen,Marketing,Male,31,03/02/2021,,ACTIVE,
+1701,Logan,Wright,HR,F,999,,116000,INACTIVE,logan.wright1outlook.com
+1662,Charlotte,Hall,HR,F,31 years,25-05-2023,48000,INACTIVE,charlotte.hall62@gmail.com
+1711,Mia,Young,Marketing,m,44,2021-12-21,64000,On Leave,
+1898,Logan,Jackson,FINANCE,m,49,,"$108,000",On Leave,logan.jackson98@yahoo.com
+1812,Lisa,Wilson,sales,m,36,2024-04-15,63000,ON LEAVE,   lisa.wilson12@yahoo.com  
+1297,Logan,Davis,Marketing,Female,55,2014-03-04,62000,Inactive,logan.davis97outlook.com
+1190,Lisa,Miller,Engineering,M,60,2016-11-11,138000,Inactive,lisa.miller90@yahoo.com
+1741,Mary,Martin,Marketing,Male,37,2021-05-09,118000,Inactive,
+1306,Patricia,Williams,ENGINEERING,m,62,01/25/2022,-150000,ON LEAVE,patricia.williams6@yahoo.com
+1900,Susan,Green,Marketing,female,33,09/13/2024,67000,INACTIVE,SUSAN.GREEN0@COMPANY.ORG
+1081,David,Wilson,HR,MALE,36,,-46000,Inactive,DAVID.WILSON81@GMAIL.COM
+2056,Richard,Wilson,HR,FEMALE,29,2020-07-26,,Inactive,richard.wilson56@company.org
+1979,Liam,Harris,SALES,Female,60,2013-03-01,37000,INACTIVE,liam.harris79@gmail.com
+1188,Lucas,Thompson,Saless,m,63,26-10-2012,51000,INACTIVE,lucas.thompson88@gmail.com
+1957,Lisa,Jones,Marketing,FEMALE,40,13-07-2024,,INACTIVE,
+1417,Thomas,Williams,SALES,MALE,40,3/9/2012,"$56,000",On Leave,
+1130,Ava,Williams,FINANCE,F,,5/5/2011,,inactive,ava.williams30@company.org
+1974,Sarah,Young,Marketing,FEMALE,63 years,10/17/2011,66000,On Leave,sarah.young74@gmail.com
+2088,Sophia,Brown,finance,F,23,2024-06-13,"$61,000",On Leave,sophia.brown88@outlook.com
+1155,Robert,Smith,Marketing,Male,47,21-05-2018,42000,Active,robert.smith55@company.org
+1909,Linda,Williams,HR,Female,22,,52000,Activ,LINDA.WILLIAMS9@YAHOO.COM
+1572,William,Walker,Marketing,male,45,2012-10-18,100000,On Leave,william.walker72@outlook.com
+1602,William,Walker,Marketing,female,29 years,14-07-2011,,Inactive,william.walker2@yahoo.com
+1994,Susan,Smith,Sales,Male,42,,91000,INACTIVE,susan.smith94@gmail.com
+1477,James,Taylor,Sales,m,,2022-06-26,,inactive,james.taylor77@yahoo.com
+1991,Lisa,Jackson,Engineering,MALE,,2017-08-09,77000.0 USD,Inactive,lisa.jackson91gmail.com
+1284,Logan,Wright,Marketing,f,47,2022-01-20,89000,Active,logan.wright84@company.org
+1834,Michael,Wilson,Markting,F,58,2013-10-26,58000,Inactive,michael.wilson34@gmail.com
+1148,Jennifer,Scott,HR,F,56,2016-04-14,136000.0 USD,Inactive,jennifer.scott48@yahoo.com
+1234,Charlotte,Green,Sales,MALE,30,2024-10-18,119000,INACTIVE,charlotte.green34@gmail.com
+1102,Lucas,Lewis,Marketing,MALE,38,2020-10-19,95000,on leave,lucas.lewis2@yahoo.com
+1317,Mason,Walker,Marketing,Female,28 years,11/19/2014,69000,Inactive,mason.walker17@company.org
+1631,Charlotte,Smith,Fin,Female,39,2020-08-13,117000,Active,charlotte.smith31@gmail.com
+1732,Ava,Wilson,Engineering,Female,49,05/05/2022,37000,On Leave,ava.wilson32@gmail.com
+1495,John,Walker,HR,m,55,2024-04-06,147000,ON LEAVE,john.walker95@gmail.com
+1637,Olivia,Lewis,Marketing,FEMALE,50 years,2023-11-22,101000,on leave,olivia.lewis37@yahoo.com
+1667,James,Scott,Finance,Male,45,2020-01-13,60000,ON LEAVE,james.scott67@gmail.com
+1078,Logan,Miller,Engineering,male,40 years,2023-02-17,-44000,Active,logan.miller78@gmail.com
+2093,David,Wright,finance,Male,37,03/22/2016,"$129,000",In-active,david.wright93@yahoo.com
+1565,Noah,Thompson,FINANCE,Female,65 years,2018-12-21,69000,Activ,NOAH.THOMPSON65@GMAIL.COM
+1999,Thomas,Johnson,Eng,f,65,07-12-2012,69000,On Leave,
+1381,Ethan,Allen,HR,MALE,35,10-05-2013,126000,Activ,ethan.allen81@company.org
+1844,Sarah,Green,Finance,m,55 years,,,ON LEAVE,sarah.green44@outlook.com
+2081,Mary,Wright,Engineering,Female,47,7/25/2018,,Inactive,mary.wright81@yahoo.com
+1221,Joseph,Jones,HR,Female,,2020-12-21,,On Leave,joseph.jones21@outlook.com
+1579,Susan,Lewis,finance,Female,42,2019-10-12,"$124,000",ACTIVE,susan.lewis79@company.org
+1103,Linda,Miller,Sales,FEMALE,31,2016-12-07,88000,Inactive,linda.miller3@company.org
+1279,David,Smith,Marketing,Female,41,09-09-2013,115000,Inactive,david.smith79@gmail.com
+1970,Patricia,Taylor,Marketing,F,30,2023-08-04,"$124,000",On Leave,patricia.taylor70@outlook.com
+1606,Mason,Taylor,Marketing,F,33.5,1/27/2012,131000,Inactive,mason.taylor6yahoo.com
+2048,James,Green,Finance,F,33.5,2011-08-25,42000.0 USD,Active,james.green48@gmail.com
+1507,Karen,Wright,Engineering,Female,25 years,2022-12-07,107000,Active,karen.wright7@company.org
+1707,Mary,Brown,Engineering,Female,,2018-05-25,"$124,000",On Leave,mary.brown7@yahoo.com
+1725,Lucas,Jackson,Marketing,male,,,67000,Inactive,lucas.jackson25company.org
+1058,Ethan,Wright,marketing,f,24,2010-05-16,-52000,ACTIVE,ethan.wright58@gmail.com
+1021,Joseph,Davis,Sales,MALE,39,2023-02-25,77000,Inactive,joseph.davis21outlook.com
+1068,Lucas,Harris,Marketing,male,,2022-10-20,,Inactive,lucas.harris68@gmail.com
+2047,David,Jones,Enginering,Male,54,2016-03-20,77000,On Leave,david.jones47@company.org
+1275,Mary,Green,Markting,Male,50,,"$113,000",INACTIVE,mary.green75@gmail.com
+1008,Liam,Green,Enginering,male,,2010-02-12,76000,On Leave,
+1927,Barbara,Walker,Marketing,Female,59,,37000,active,barbara.walker27@outlook.com
+1961,Thomas,Young,Finance,f,,2010-02-16,"$35,000",ACTIVE,thomas.young61@company.org
+1462,Jennifer,Thomas,hr,Female,,2016-09-20,95000,INACTIVE,jennifer.thomas62@company.org
+1365,Liam,Thomas,Finance,Male,999,2011-07-12,"$78,000",On Leave,liam.thomas65@outlook.com
+1669,Lisa,Johnson,Engineering,male,,08/04/2017,,In-active,lisa.johnson69@gmail.com
+1742,James,Scott,Finance,Male,34,2024-08-13,83000.0 USD,Inactive,james.scott42@company.org
+1840,Jessica,Harris,Engineering,Male,29 years,2023-06-11,117000,ON LEAVE,JESSICA.HARRIS40@COMPANY.ORG
+1626,Joseph,Thomas,Sales,m,49 years,2019-12-10,71000,Inactive,joseph.thomas26outlook.com
+2063,Logan,Brown,Enginering,MALE,53,09-12-2016,"$150,000",ACTIVE,logan.brown63yahoo.com
+2016,Michael,Allen,Finance,Male,53,2019-11-20,129000,on leave,michael.allen16@gmail.com
+1175,Robert,Thomas,MARKETING,MALE,25,2016-08-24,-35000,On Leave,robert.thomas75@company.org
+1671,Lisa,Wilson,finance,MALE,65,2018-09-10,70000.0 USD,Inactive,lisa.wilson71company.org
+1070,Thomas,Taylor,Marketing,MALE,49,,98000,Active,thomas.taylor70@yahoo.com
+1269,Isabella,Harris,HR,M,40.5,2019-01-17,"$39,000",on leave,isabella.harris69@yahoo.com
+2085,Charles,Anderson,SALES,Male,54 years,2022-07-01,"$116,000",On Leave,charles.anderson85@outlook.com
+1171,Susan,Martin,Sales,m,60,01/17/2013,64000,Activ,susan.martin71@company.org
+2000,David,Anderson,Markting,M,62,03-01-2015,,Inactive,david.anderson0@company.org
+1796,Mary,Young,Marketing,m,49,09/11/2022,-97000,On Leave,mary.young96outlook.com
+1137,,Brown,Sales,MALE,54,2021-09-18,63000,Inactive,mason.brown37@yahoo.com
+1406,Charles,White,HR,female,42,2024-06-01,130000,On Leave,charles.white6@outlook.com
+1131,Susan,White,HR,F,,2015-09-03,-38000,INACTIVE,susan.white31@outlook.com
+1559,Michael,Jones,HR,Male,0,2010-08-06,49000,On Leave,MICHAEL.JONES59@OUTLOOK.COM
+2019,,Miller,Marketing,MALE,58 years,05/13/2017,82000,inactive,   noah.miller19@company.org  
+1853,Jennifer,Lewis,Sales,Male,56 years,2023-02-18,,ACTIVE,jennifer.lewis53@company.org
+1930,Mason,Lewis,Sales,F,30,2023-05-17,51000,ACTIVE,MASON.LEWIS30@GMAIL.COM
+2089,Patricia,Thompson,HR,Male,55,03/14/2017,50000,on leave,PATRICIA.THOMPSON89@GMAIL.COM
+2042,Ethan,Jackson,Marketing,Female,49,7/10/2017,120000,On Leave,ethan.jackson42@company.org
+1198,Lisa,White,Sale,Female,30,2016-02-17,112000,On Leave,lisa.white98@gmail.com
+1358,Ethan,Brown,finance,MALE,45,2021-05-18,-132000,Inactive,ethan.brown58@gmail.com
+1116,Mason,Young,HR,m,,2012-05-07,"$93,000",Active,mason.young16@gmail.com
+1638,Jessica,Anderson,Finance,f,35,2014-04-15,100000,Active,jessica.anderson38@outlook.com
+1013,Lucas,Martin,HR,M,25,2012-07-01,150000,Inactive,lucas.martin13@company.org
+1620,Sophia,Green,ENGINEERING,Female,58,2011-11-10,"$96,000",Inactive,SOPHIA.GREEN20@OUTLOOK.COM
+1934,Noah,Wright,Saless,FEMALE,54,2010-07-15,60000.0 USD,Activ,   noah.wright34@gmail.com  
+1735,Mason,Garcia,HR,Male,46,2019-11-06,61000,on leave,mason.garcia35outlook.com
+1239,Patricia,Green,Enginering,Female,34,2023-11-26,36000,Inactive,patricia.green39@outlook.com
+1098,David,Anderson,Fin,Female,32,2017-09-15,132000,active,DAVID.ANDERSON98@COMPANY.ORG
+2078,Charlotte,Garcia,Engineering,MALE,31,2011-11-18,112000,On Leave,charlotte.garcia78@yahoo.com
+2036,Emma,Wilson,Fin,Male,64,6/3/2011,115000,Active,   emma.wilson36@company.org  
+1461,Jessica,Davis,Financee,male,51.5,2014-03-24,"$127,000",Inactive,jessica.davis61@yahoo.com
+1487,Olivia,Walker,Financee,M,64,01/08/2023,47000,on leave,olivia.walker87@gmail.com
+1780,,Allen,FINANCE,female,50,2022-12-04,126000,Active,noah.allen80@gmail.com
+1291,John,Williams,marketing,FEMALE,46,2/25/2023,,inactive,john.williams91@company.org
+1415,,Garcia,Sales,Female,29,2020-09-03,117000,On Leave,jennifer.garcia15@yahoo.com
+1935,Logan,Taylor,ENGINEERING,f,34,2010-01-19,49000,Active,logan.taylor35@company.org
+1240,David,Williams,marketing,f,47,2016-10-07,120000,INACTIVE,david.williams40@gmail.com
+1750,Ethan,Harris,Engineering,Male,46,2016-01-28,,On Leave,ethan.harris50@yahoo.com
+1228,Logan,Davis,Sales,FEMALE,24,,,Inactive,logan.davis28@outlook.com
+1525,Michael,Brown,Sales,Female,43,4/10/2010,134000,on leave,michael.brown25@yahoo.com
+1368,Lisa,Lewis,HR,m,27 years,2021-10-04,130000,On Leave,lisa.lewis68@outlook.com
+2096,Liam,Hall,engineering,Female,50,2023-09-24,73000,inactive,liam.hall96@outlook.com
+1668,Sarah,Davis,MARKETING,m,,12/23/2013,118000,ON LEAVE,sarah.davis68@company.org
+1454,Lisa,Harris,Saless,Male,46,4/8/2022,133000,Active,LISA.HARRIS54@OUTLOOK.COM
+1482,Barbara,Jackson,HR,m,44,2017-03-02,47000,INACTIVE,
+1562,Jessica,Thomas,Marketing,female,28 years,9/23/2012,35000,ON LEAVE,jessica.thomas62@company.org
+1211,Charlotte,Young,Marketing,Male,,10/22/2019,106000,Inactive,charlotte.young11@company.org
+1506,Richard,Young,Engineering,Male,,2018-12-09,59000,active,richard.young6@outlook.com
+1520,James,Miller,Sales,F,30,2024-02-02,,On Leave,james.miller20@outlook.com
+1067,Mary,Walker,MARKETING,m,41 years,2024-06-12,69000,Active,
+1536,Richard,Williams,Finance,Male,42,,120000,Inactive,richard.williams36@yahoo.com
+1779,David,Johnson,Marketing,Female,65,2012-02-07,49000,Inactive,david.johnson79@company.org
+1516,David,Brown,engineering,m,26,2019-06-04,"$80,000",inactive,david.brown16@outlook.com
+1605,Barbara,Smith,Finance,F,51,,"$118,000",On Leave,barbara.smith5@yahoo.com
+1929,Thomas,Williams,Engineering,m,25 years,2016-02-12,96000.0 USD,In-active,thomas.williams29@yahoo.com
+1313,Patricia,Hall,HR,Male,64,20-12-2014,41000,on leave,patricia.hall13gmail.com
+1208,Sophia,Miller,HR,Male,28 years,2022-07-02,78000,On Leave,sophia.miller8@gmail.com
+1966,Ava,Allen,Engineering,Male,22,09/02/2020,80000.0 USD,Inactive,ava.allen66@gmail.com
+1988,Mia,Green,Sales,Female,,2022-12-17,46000,ON LEAVE,mia.green88@yahoo.com
+1739,Isabella,Lewis,Finance,M,23,2017-11-19,"$149,000",Inactive,isabella.lewis39@outlook.com
+1795,James,Davis,Markting,Female,60,07/15/2023,145000,On Leave,james.davis95@yahoo.com
+1918,Charles,Davis,SALES,f,38 years,08/20/2019,145000,Inactive,
+1841,Sarah,Martin,HR,Female,38 years,,41000,Inactive,   sarah.martin41@yahoo.com  
+1393,Thomas,Thomas,MARKETING,Male,29,11/15/2021,37000,On Leave,thomas.thomas93@yahoo.com
+1776,John,Martin,Marketing,f,52,2023-07-25,67000,inactive,john.martin76@gmail.com
+1109,Ethan,Wilson,Engineering,Male,51,05/23/2020,55000,INACTIVE,ethan.wilson9@yahoo.com
+1808,Emma,Taylor,Marketing,Male,29,2024-08-25,109000,On Leave,
+1123,Logan,Young,Marketing,female,63 years,2021-08-15,127000,Inactive,logan.young23@yahoo.com
+1940,Ava,Brown,Enginering,Male,25,08/19/2017,71000,inactive,ava.brown40@outlook.com
+1567,Noah,Walker,SALES,Female,44.5,2014-02-01,107000,inactive,noah.walker67company.org
+1826,Noah,Garcia,Finance,Male,49,06/21/2011,122000,ACTIVE,   noah.garcia26@yahoo.com  
+1436,Isabella,Miller,Fin,F,34 years,05/06/2013,"$38,000",Active,   isabella.miller36@yahoo.com  
+1658,Lucas,White,HR,Male,61.5,20-03-2013,38000,On Leave,lucas.white58@gmail.com
+2080,William,Harris,Finance,FEMALE,51,2024-09-23,49000,Inactive,   william.harris80@gmail.com  
+1202,William,Wright,SALES,MALE,59,2017-10-22,88000,inactive,william.wright2@company.org
+1273,Charlotte,Williams,Engineering,Female,150,2012-03-11,135000,Inactive,charlotte.williams73@gmail.com
+1863,William,Thomas,Finance,F,41,2022-05-03,-48000,Active,william.thomas63@company.org
+1127,David,Williams,hr,Female,43,,135000,On Leave,
+1936,James,Anderson,Engineering,Male,32,2023-08-09,,on leave,james.anderson36@company.org
+1140,Richard,Harris,finance,female,35,25-05-2013,35000.0 USD,INACTIVE,richard.harris40@gmail.com
+1917,Sarah,Garcia,Marketing,FEMALE,58,2023-09-07,66000,On Leave,sarah.garcia17@outlook.com
+1767,Ava,Scott,Finance,M,45.5,,41000,INACTIVE,ava.scott67company.org
+1551,Ethan,Lewis,marketing,M,46,2014-10-07,43000,On Leave,
+1337,Robert,Jackson,marketing,M,39,2021-10-18,89000,Inactive,robert.jackson37@yahoo.com
+1786,Mia,Walker,Finance,FEMALE,,,,On Leave,mia.walker86@outlook.com
+1869,James,Davis,HR,Female,53,2014-12-10,116000,Inactive,james.davis69@gmail.com
+1852,Noah,Harris,Eng,male,33,08/09/2019,89000,Inactive,   noah.harris52@outlook.com  
+1243,Olivia,Thompson,Finance,m,38,2013-05-03,141000,on leave,   olivia.thompson43@company.org  
+2039,Logan,Martin,Engineering,M,33,2012-08-21,133000,On Leave,logan.martin39@company.org
+1115,,Harris,HR,f,64,05-09-2023,122000,INACTIVE,
+1360,Michael,Scott,engineering,Male,999,2013-10-28,60000,Inactive,michael.scott60@company.org
+1773,David,Scott,Engineering,female,42,2021-06-18,-49000,Inactive,david.scott73company.org
+1305,Sarah,Garcia,Sales,F,,2017-06-18,,INACTIVE,sarah.garcia5@gmail.com
+1277,Mary,Jackson,Finance,Male,25,2014-04-26,,Inactive,mary.jackson77@outlook.com
+1784,Mia,Martin,hr,Male,46,2018-11-21,,Active,mia.martin84@gmail.com
+1466,Barbara,Wilson,engineering,male,27,2020-12-13,"$49,000",INACTIVE,barbara.wilson66@company.org
+1925,Noah,Allen,Fin,female,61 years,,-60000,INACTIVE,noah.allen25gmail.com
+2006,Linda,Thompson,HR,Male,43,2018-09-03,"$82,000",On Leave,linda.thompson6@outlook.com
+1285,John,Davis,Financee,FEMALE,57,25-09-2016,40000,On Leave,john.davis85gmail.com
+1879,Lucas,Smith,HR,M,41,12/08/2018,"$62,000",On Leave,lucas.smith79@yahoo.com
+1782,William,Brown,Sales,MALE,33,2020-04-15,108000,active,william.brown82outlook.com
+1550,,Jackson,sales,Male,42,03/12/2016,-138000,inactive,olivia.jackson50@yahoo.com
+1518,Linda,Lewis,HR,FEMALE,42,2012-03-25,46000,INACTIVE,linda.lewis18@company.org
+1887,Thomas,Williams,ENGINEERING,M,36,,,INACTIVE,
+1178,Michael,Johnson,HR,FEMALE,45 years,2010-07-03,,Activ,michael.johnson78@outlook.com
+1584,David,Taylor,Sales,m,54,2014-07-20,113000,On Leave,
+1004,Liam,Garcia,MARKETING,Female,39,2021-11-21,"$120,000",Activ,liam.garcia4@gmail.com
+1709,Joseph,Davis,Engineering,FEMALE,35,2012-01-10,138000,On Leave,joseph.davis9@yahoo.com
+2094,Karen,Young,Finance,male,57.5,2015-12-22,79000,on leave,karen.young94@outlook.com
+1622,Logan,Anderson,engineering,Female,52,09/28/2018,-125000,Inactive,logan.anderson22@gmail.com
+1881,Ava,Lewis,HR,Female,26,2024-04-01,115000,Inactive,ava.lewis81@company.org
+2004,Barbara,Harris,MARKETING,FEMALE,26,08/15/2014,,On Leave,barbara.harris4@gmail.com
+2033,Susan,Garcia,Marketing,FEMALE,33,2023-10-11,83000,Activ,susan.garcia33@yahoo.com
+1775,Robert,Williams,Marketing,F,44,2020-07-01,89000.0 USD,Activ,robert.williams75@outlook.com
+1712,Isabella,Young,Sale,F,31,2011-11-12,,Inactive,isabella.young12@gmail.com
+1267,Ava,Miller,engineering,M,33,2018-12-18,115000,On Leave,ava.miller67company.org
+1412,Linda,Thomas,Fin,FEMALE,31 years,2011-06-10,101000,Active,
+1508,Karen,Miller,Engineering,M,35.5,01-12-2019,108000,Inactive,karen.miller8company.org
+2040,Jessica,Hall,Finance,female,60,2011-11-25,49000,Active,jessica.hall40@company.org
+1046,Patricia,Miller,MARKETING,m,,2011-01-21,91000,Inactive,patricia.miller46@yahoo.com
+1817,Joseph,Wright,Marketing,m,43,2020-03-23,144000.0 USD,INACTIVE,joseph.wright17@company.org
+1589,Robert,Wilson,Finance,M,44,4/15/2024,"$125,000",Inactive,robert.wilson89@outlook.com
+2050,,Green,Sales,MALE,51,2015-07-28,145000.0 USD,on leave,william.green50@outlook.com
+1590,Lucas,Wright,Fin,female,35,03/27/2024,-45000,Inactive,lucas.wright90@yahoo.com
+1023,Richard,Thomas,HR,m,61.5,2015-11-28,77000,ON LEAVE,richard.thomas23@gmail.com
+1217,John,Allen,Marketing,Female,,2018-12-10,84000,Active,JOHN.ALLEN17@GMAIL.COM
+1814,Sarah,Taylor,engineering,Male,60,2015-10-13,,Inactive,
+1325,Noah,Johnson,MARKETING,male,35 years,2022-11-22,,Inactive,noah.johnson25@company.org
+1607,Joseph,Garcia,MARKETING,female,28,,131000,On Leave,joseph.garcia7@outlook.com
+1236,Ava,Hall,Eng,FEMALE,150,2012-07-21,-81000,Inactive,ava.hall36@outlook.com
+1593,Patricia,Brown,Finance,female,40,15-09-2023,121000,On Leave,patricia.brown93@company.org
+1774,Richard,Wright,Sale,m,26,,,Inactive,
+1542,Sophia,Johnson,Finance,FEMALE,46,2021-03-13,,Activ,sophia.johnson42@outlook.com
+2014,Liam,Johnson,Markting,f,63,8/14/2010,73000,inactive,liam.johnson14@company.org
+1465,Olivia,Thompson,hr,Female,63,2016-07-24,42000,ON LEAVE,olivia.thompson65@yahoo.com
+2059,Michael,Martin,HR,FEMALE,150,10/28/2019,87000,INACTIVE,michael.martin59@yahoo.com
+1693,Isabella,Miller,HR,F,29,2021-05-21,91000,ON LEAVE,isabella.miller93@outlook.com
+1266,Ethan,Hall,Sale,Female,48.5,2023-06-26,,On Leave,ethan.hall66@gmail.com
+1649,Emma,Taylor,SALES,m,24 years,2018-12-13,,Inactive,emma.taylor49@yahoo.com
+1270,Charlotte,Young,Finance,male,51.5,2015-03-05,39000.0 USD,Activ,charlotte.young70@outlook.com
+1105,Mia,Thomas,Finance,F,58,9/13/2020,50000.0 USD,Inactive,mia.thomas5@company.org
+1954,Michael,Davis,Marketing,m,46,2014-09-14,115000.0 USD,Inactive,michael.davis54@yahoo.com
+1522,Jennifer,Davis,Sales,MALE,48,2012-03-16,141000,On Leave,
+1878,Richard,Garcia,Engineering,m,36,2014-03-25,142000,Active,richard.garcia78@company.org
+2003,Isabella,,Fin,MALE,59,2021-10-25,"$56,000",Active,isabella.anderson3@company.org
+1433,Barbara,Jones,HR,f,40,01/17/2015,78000,On Leave,BARBARA.JONES33@YAHOO.COM
+1214,Richard,Green,Engineering,FEMALE,65 years,2011-03-06,57000,INACTIVE,   richard.green14@gmail.com  
+1175,Robert,Thomas,MARKETING,MALE,25,2016-08-24,-35000,On Leave,robert.thomas75@company.org
+2071,William,Allen,Sales,male,58,2024-09-16,57000,INACTIVE,william.allen71@company.org
+1531,Liam,Thompson,Finance,Female,0,09/15/2016,45000,Inactive,liam.thompson31outlook.com
+1271,Emma,Martin,Engineering,FEMALE,58,2/20/2023,124000,On Leave,emma.martin71@outlook.com
+1009,William,Allen,HR,MALE,60,2016-04-18,102000,Inactive,william.allen9yahoo.com
+1220,Linda,Young,Sale,m,24,2021-02-12,109000.0 USD,On Leave,linda.young20@gmail.com
+2041,,Garcia,Sale,m,23,2022-06-16,142000,Inactive,john.garcia41@company.org
+1139,Noah,Hall,Sales,MALE,55,09/06/2012,66000,on leave,noah.hall39@outlook.com
+1002,Joseph,Harris,FINANCE,Female,32,2021-07-11,,inactive,joseph.harris2@outlook.com
+1560,Noah,Johnson,hr,female,150,2020-07-24,"$47,000",Inactive,noah.johnson60company.org
+1574,Logan,Jones,Enginering,Male,41,2021-01-26,"$115,000",Inactive,LOGAN.JONES74@COMPANY.ORG
+1686,Mason,Hall,Marketing,Male,63 years,,45000,on leave,mason.hall86@gmail.com
+1194,Patricia,Smith,hr,FEMALE,32,2019-03-16,132000,Active,
+1039,Charles,Martin,HR,Female,,08/04/2014,58000,Inactive,charles.martin39@gmail.com
+1128,John,Garcia,marketing,male,31,2022-12-27,"$110,000",Active,john.garcia28@company.org
+1383,Thomas,Williams,Sales,m,37,2017-06-20,-77000,Active,thomas.williams83gmail.com
+2005,Mason,Wright,Engineering,Male,60,2021-11-06,136000,On Leave,mason.wright5@gmail.com
+1272,Linda,Green,Engineering,m,62,01/10/2016,134000.0 USD,on leave,linda.green72@gmail.com
+1849,Olivia,Thomas,hr,Male,,10/01/2020,"$129,000",ACTIVE,olivia.thomas49@outlook.com
+1985,Liam,Smith,HR,m,44,2018-11-23,135000,inactive,liam.smith85@gmail.com
+1307,Lisa,White,Marketing,M,,2018-07-28,36000,On Leave,lisa.white7@yahoo.com
+1942,Michael,Williams,HR,Male,64,2020-01-21,"$119,000",active,michael.williams42@outlook.com
+1651,Jennifer,White,Sales,m,41,18-09-2019,"$68,000",On Leave,jennifer.white51@yahoo.com
+1838,Lucas,Lewis,Marketing,FEMALE,-5,2021-07-09,"$113,000",Active,lucas.lewis38@company.org
+1894,Noah,Young,HR,Male,47,2019-03-24,,On Leave,noah.young94@gmail.com
+1549,Karen,Anderson,finance,male,150,12-10-2013,84000,On Leave,karen.anderson49@outlook.com
+1343,Barbara,Garcia,ENGINEERING,m,58,08/09/2012,75000,Active,barbara.garcia43@outlook.com
+1210,William,Jones,hr,f,42,2021-12-18,105000.0 USD,On Leave,william.jones10@yahoo.com
+1914,Olivia,Martin,hr,female,45.5,2018-11-09,130000,Inactive,olivia.martin14@company.org
+1650,Sarah,Scott,Finance,Female,42,1/5/2015,44000.0 USD,active,sarah.scott50@gmail.com
+1332,Emma,Davis,Sales,MALE,34,04/03/2016,"$87,000",on leave,emma.davis32@company.org
+1473,Jennifer,Thomas,HR,Female,28,2021-07-10,144000,On Leave,
+1714,Robert,Thompson,HR,Male,,2019-03-27,59000.0 USD,On Leave,robert.thompson14@yahoo.com
+1639,John,Anderson,SALES,F,48 years,,55000,ACTIVE,john.anderson39@gmail.com
+1108,John,Jackson,HR,Male,40,2024-01-01,146000.0 USD,ON LEAVE,john.jackson8@outlook.com
+1915,Ethan,Jackson,Finance,Male,47,09/28/2010,"$48,000",On Leave,ethan.jackson15@yahoo.com
+1036,Jennifer,Davis,HR,Female,37,8/21/2021,"$132,000",ON LEAVE,jennifer.davis36@company.org
+1079,Isabella,Johnson,hr,female,37,2017-10-10,127000,ON LEAVE,ISABELLA.JOHNSON79@COMPANY.ORG
+1860,John,Hall,HR,Male,37,2016-10-28,61000,Inactive,john.hall60@company.org
+1535,Thomas,Garcia,Sales,m,41,2012-04-12,78000,Inactive,thomas.garcia35@company.org
+1722,Emma,Scott,Sales,m,46,,73000,ACTIVE,EMMA.SCOTT22@GMAIL.COM
+1837,Charlotte,Davis,HR,male,39,2019-12-25,101000,On Leave,charlotte.davis37@yahoo.com
+1071,Lucas,Taylor,sales,Female,32,2022-10-15,"$76,000",active,lucas.taylor71@outlook.com
+1263,David,Williams,Finance,Male,38,2018-06-15,72000,inactive,david.williams63@gmail.com
+1262,Olivia,Harris,Engineering,m,44,2021-03-09,83000,ON LEAVE,olivia.harris62@gmail.com
+1827,Mason,Miller,engineering,Female,,23-09-2014,132000,active,mason.miller27@gmail.com
+1387,Karen,Lewis,finance,Male,55,,35000,On Leave,karen.lewis87@company.org
+1085,Michael,Green,Finance,Female,,2018-06-27,40000,ACTIVE,michael.green85@yahoo.com
+1534,Liam,White,HR,Male,23,14-11-2022,,ACTIVE,liam.white34@outlook.com
+1182,Sophia,Young,marketing,female,22,2022-12-20,93000,on leave,sophia.young82company.org
+1610,John,White,Saless,f,-5,02-11-2020,142000,INACTIVE,john.white10gmail.com
+1256,Ava,Jackson,Eng,Female,62,09/25/2013,89000,Inactive,   ava.jackson56@outlook.com  
+1937,,Johnson,marketing,Female,28,06/21/2014,89000,Inactive,   john.johnson37@gmail.com  
+1352,Robert,Thompson,Eng,Male,32,2018-06-28,,inactive,
+1005,Patricia,Davis,Saless,FEMALE,-5,2013-10-23,69000,Inactive,patricia.davis5@outlook.com
+1420,Sarah,Young,HR,FEMALE,51,2023-10-10,35000,Inactive,sarah.young20@yahoo.com
+1388,Michael,Anderson,Engineering,Male,64,2017-08-21,93000,Active,michael.anderson88@outlook.com
+1666,Mia,Garcia,hr,F,26,2015-04-10,120000,Active,mia.garcia66@yahoo.com
+1785,Lucas,Hall,Marketing,male,25,2022-07-02,87000,Inactive,lucas.hall85@outlook.com
+1432,William,Hall,Financee,Female,52.5,2021-10-15,,Inactive,william.hall32@yahoo.com
+1609,Thomas,Williams,engineering,female,29,2015-02-24,120000.0 USD,On Leave,thomas.williams9@yahoo.com
+1558,Charlotte,Anderson,Marketing,Female,54,03/08/2011,54000,On Leave,   charlotte.anderson58@outlook.com  
+1163,Sarah,Taylor,marketing,female,,2015-08-09,,Inactive,sarah.taylor63@yahoo.com
+1876,Robert,Taylor,Marketing,Male,50,2014-10-26,126000,Active,robert.taylor76@yahoo.com
+1029,Ava,Martin,Sales,F,46,2023-07-18,131000,Inactive,ava.martin29@yahoo.com
+1468,Lucas,Thompson,hr,female,32,2012-06-06,90000,On Leave,LUCAS.THOMPSON68@YAHOO.COM
+1187,Susan,Martin,Finance,Female,38,12/03/2021,55000,inactive,SUSAN.MARTIN87@OUTLOOK.COM
+1498,Barbara,Green,Marketing,MALE,45 years,2014-06-14,85000,Inactive,barbara.green98@yahoo.com
+1483,,Hall,HR,Male,63,2016-05-21,,Inactive,susan.hall83@company.org
+2023,Olivia,Garcia,Engineering,male,57,2017-02-18,82000,inactive,olivia.garcia23outlook.com
+1933,Joseph,Brown,HR,f,27,2017-03-14,132000,Inactive,joseph.brown33gmail.com
+1521,Patricia,Scott,Engineering,Male,,2016-12-01,125000,On Leave,patricia.scott21@company.org
+1859,Karen,Thompson,Engineering,F,29,2013-07-05,107000,INACTIVE,karen.thompson59@outlook.com
+1138,Lucas,Williams,Sales,Male,43,,74000,Inactive,
+1676,Karen,Brown,Sales,male,52,,76000,Inactive,
+1044,Karen,Lewis,Sales,MALE,63.5,,101000,INACTIVE,karen.lewis44company.org
+1629,,Thompson,Sales,MALE,39,2021-03-27,116000,Inactive,emma.thompson29@company.org
+1696,David,Thomas,Engineering,MALE,62,2020-10-08,56000.0 USD,on leave,   david.thomas96@yahoo.com  
+1980,Lisa,Williams,Finance,Male,30.5,,82000,On Leave,lisa.williams80@outlook.com
+1403,David,Scott,MARKETING,Female,28,2012-11-12,98000,on leave,DAVID.SCOTT3@OUTLOOK.COM
+1253,Isabella,Hall,Engineering,MALE,32,01/22/2010,142000,On Leave,isabella.hall53@outlook.com
+1298,Lisa,Green,Marketing,Male,55.5,,,Active,lisa.green98@gmail.com
+1389,William,Miller,sales,F,25,2021-02-18,"$137,000",inactive,
+1104,Ava,Anderson,Engineering,female,999,2015-11-25,78000,ON LEAVE,ava.anderson4@outlook.com
+1119,Mia,Davis,Engineering,f,999,2024-01-18,-53000,on leave,mia.davis19@company.org
+1899,Sophia,Hall,Engineering,Male,39,,41000.0 USD,Inactive,sophia.hall99@outlook.com
+2086,Patricia,Smith,Finance,m,38,2015-09-04,103000,Inactive,patricia.smith86@yahoo.com
+1356,Richard,Garcia,Markting,m,39,,,active,RICHARD.GARCIA56@YAHOO.COM
+1366,Noah,Garcia,Sale,Female,64,2023-07-19,93000,In-active,noah.garcia66@company.org
+1191,Noah,Scott,Eng,FEMALE,54,2014-03-27,80000,on leave,noah.scott91@yahoo.com
+1582,James,Thomas,hr,m,65,2021-12-21,58000,Inactive,james.thomas82@company.org
+1500,Sophia,Thompson,HR,Male,23,2012-03-12,48000,Active,
+1599,Emma,Thompson,Finance,Female,59,2010-11-24,83000,Activ,emma.thompson99@yahoo.com
+1246,Susan,Harris,sales,F,22 years,07-11-2010,123000,Inactive,   susan.harris46@company.org  
+1770,John,Lewis,HR,f,25,2014-06-03,-126000,ACTIVE,john.lewis70@outlook.com
+1791,Linda,Jackson,Finance,Female,34,16-05-2022,43000,Inactive,linda.jackson91@company.org
+1685,Emma,White,Engineering,Male,54,2015-08-09,137000,INACTIVE,emma.white85@gmail.com
+1177,Mia,Wright,sales,female,60,2024-07-06,56000,on leave,mia.wright77@gmail.com
+1505,Jessica,Lewis,HR,male,,2021-10-04,51000,In-active,jessica.lewis5@gmail.com
+1923,James,Lewis,hr,Female,65 years,08/03/2019,"$61,000",Active,james.lewis23gmail.com
+1598,,Taylor,Engineering,m,,2015-07-21,"$112,000",Inactive,mason.taylor98@outlook.com
+1752,Mason,Garcia,hr,m,26,,48000,Inactive,mason.garcia52@outlook.com
+1186,Susan,Miller,Eng,Male,51,06/23/2010,39000,In-active,
+1882,,Wilson,Engineering,Female,31,10/26/2013,104000,Inactive,linda.wilson82@outlook.com
+1659,Liam,Smith,Financee,FEMALE,34.5,15-03-2023,100000,On Leave,liam.smith59@outlook.com
+1684,Jessica,Jackson,sales,f,34 years,2013-07-19,86000,Inactive,jessica.jackson84gmail.com
+1015,John,,Sales,F,58,2018-06-09,,On Leave,john.walker15@yahoo.com
+1124,Robert,Allen,Sales,m,62,2013-02-23,-52000,Inactive,robert.allen24@yahoo.com
+1496,Sarah,Young,Saless,Female,,2014-04-01,96000,Inactive,sarah.young96@company.org
+1724,Susan,,Engineering,Female,31,2012-10-08,40000.0 USD,Inactive,susan.jackson24@outlook.com
+1429,Noah,Johnson,Marketing,Male,60,2019-08-25,134000,active,noah.johnson29@gmail.com
+1503,Patricia,Thompson,hr,Male,,2015-05-12,,inactive,PATRICIA.THOMPSON3@COMPANY.ORG
+1822,Noah,Walker,MARKETING,Female,52,07-09-2022,48000,Active,noah.walker22@yahoo.com
+1715,Ava,Wright,HR,Male,28 years,2014-06-06,58000.0 USD,inactive,ava.wright15@company.org
+1445,Mason,Allen,HR,Female,23,2019-01-05,110000,Inactive,mason.allen45@yahoo.com
+1162,Patricia,Jones,marketing,Male,55,,,Active,patricia.jones62@company.org
+1901,Karen,Jackson,ENGINEERING,Male,58.5,2024-02-11,150000,On Leave,karen.jackson1@company.org
+1287,Emma,Wright,Engineering,male,,06/03/2020,49000,INACTIVE,emma.wright87@company.org
+1824,Joseph,Anderson,Financee,M,41,,68000.0 USD,Inactive,joseph.anderson24@gmail.com
+1777,Jennifer,Martin,Marketing,m,62.5,2024-02-15,,In-active,jennifer.martin77@company.org
+1422,Noah,Hall,Marketing,Female,,2015-06-07,66000,inactive,noah.hall22@company.org
+1635,Jennifer,Brown,SALES,male,,2015-10-21,-46000,On Leave,JENNIFER.BROWN35@GMAIL.COM
+1703,Sarah,Thomas,Finance,Female,24,2015-11-26,,Inactive,sarah.thomas3@company.org
+1143,William,Miller,HR,Female,53,27-12-2016,,Inactive,   william.miller43@company.org  
+1821,Susan,Smith,ENGINEERING,f,-5,2024-06-05,46000,Inactive,susan.smith21@gmail.com
+1424,Ethan,Thomas,Enginering,Female,23,22-05-2022,63000,Active,ethan.thomas24@outlook.com
+1945,Ava,Lewis,SALES,FEMALE,-5,2022-11-22,86000,On Leave,ava.lewis45@gmail.com
+1435,Joseph,Wright,Engineering,FEMALE,,,62000,on leave,joseph.wright35@outlook.com
+1614,Jessica,White,Sales,F,42,7/26/2016,121000.0 USD,Inactive,jessica.white14@company.org
+1278,Charles,Hall,hr,m,28,,100000,Inactive,charles.hall78@gmail.com
+1125,James,Young,Finance,Female,55,05/18/2021,37000,Active,james.young25@outlook.com
+2067,William,Smith,Markting,male,40,2011-02-11,110000.0 USD,Active,william.smith67@company.org
+1581,Richard,Miller,Marketing,Female,,2013-04-24,,inactive,
+1088,Isabella,Walker,HR,M,44,,91000,On Leave,isabella.walker88@outlook.com
+1252,Jessica,Garcia,HR,Male,,2018-01-01,43000,Inactive,jessica.garcia52@company.org
+2029,James,Taylor,Markting,FEMALE,36,2022-06-08,123000,On Leave,
+1207,Joseph,Smith,Marketing,FEMALE,40,2018-09-12,137000,on leave,   joseph.smith7@gmail.com  
+1672,Lisa,Brown,hr,F,56,2023-03-07,122000.0 USD,On Leave,lisa.brown72@gmail.com
+1121,Mia,Davis,Finance,M,57,2015-05-13,-65000,INACTIVE,mia.davis21@company.org
+1087,Ava,Anderson,Engineering,FEMALE,45 years,09-09-2024,98000,On Leave,ava.anderson87gmail.com
+1874,Michael,Martin,HR,Female,31,2019-04-17,117000.0 USD,on leave,michael.martin74@outlook.com
+1499,Richard,Brown,ENGINEERING,FEMALE,,2016-12-11,52000,Active,richard.brown99@gmail.com
+1380,Joseph,Williams,HR,male,32 years,2010-07-20,124000,Inactive,
+1716,Michael,Thompson,MARKETING,m,57,,,On Leave,michael.thompson16@gmail.com
+1646,James,Garcia,Marketing,Male,0,2020-08-01,99000.0 USD,On Leave,james.garcia46@company.org
+1276,Barbara,Taylor,Sales,Female,29,2014-08-16,"$137,000",On Leave,barbara.taylor76@gmail.com
+1630,Ethan,Green,MARKETING,female,57 years,2024-04-13,-113000,In-active,ethan.green30@outlook.com
+1972,,Garcia,FINANCE,Male,,23-01-2024,101000,Active,sophia.garcia72@yahoo.com
+1258,Lucas,Taylor,HR,Female,24,02/27/2015,,Inactive,lucas.taylor58@yahoo.com
+1510,William,White,Financee,female,62,2023-01-27,42000,INACTIVE,william.white10@outlook.com
+1022,Thomas,Johnson,Sales,female,42,2016-10-17,,INACTIVE,thomas.johnson22@gmail.com
+1168,,White,Engineering,Male,56,1/13/2022,137000.0 USD,On Leave,   william.white68@outlook.com  
+1494,Charlotte,Scott,Engineering,f,65,2020-09-23,100000,inactive,charlotte.scott94@gmail.com
+1250,Olivia,Anderson,FINANCE,Female,27,2016-10-10,92000,ON LEAVE,olivia.anderson50@company.org
+1249,Michael,Harris,Marketing,F,57 years,2018-05-12,81000,Inactive,michael.harris49@gmail.com
+1041,David,Davis,Eng,male,48,2017-12-20,35000,Inactive,david.davis41@company.org
+1809,Ava,Anderson,HR,Female,34,10/13/2011,53000.0 USD,Active,ava.anderson9@outlook.com
+1260,Linda,Wilson,hr,F,0,2023-11-07,"$81,000",Active,LINDA.WILSON60@GMAIL.COM
+1400,David,Walker,Enginering,f,27,2020-08-05,,On Leave,david.walker0@yahoo.com
+1653,Joseph,Williams,Finance,FEMALE,,8/19/2023,126000,On Leave,joseph.williams53@company.org
+1025,Charles,Thompson,FINANCE,Female,37,2020-05-08,139000,Activ,charles.thompson25@yahoo.com
+1952,Liam,Wilson,Marketing,Female,29,2019-02-14,68000.0 USD,Inactive,liam.wilson52@outlook.com
+1043,Karen,Thompson,Fin,Female,60,2010-07-24,45000,inactive,karen.thompson43@outlook.com
+2034,Linda,Young,Sales,Female,53,2/27/2014,"$122,000",INACTIVE,linda.young34yahoo.com
+1642,Lisa,Taylor,SALES,Male,35 years,,,inactive,lisa.taylor42@yahoo.com
+1184,Sarah,Johnson,HR,Female,43,2023-05-10,,inactive,sarah.johnson84@outlook.com
+1766,Emma,Harris,HR,Male,57,2019-05-26,96000,Inactive,emma.harris66@yahoo.com
+1453,Robert,Allen,Sales,FEMALE,44,2012-04-23,91000,Active,robert.allen53@gmail.com
+1426,Robert,Jones,Marketing,MALE,39,2013-11-01,128000,On Leave,robert.jones26@outlook.com
+1867,Linda,Young,Saless,MALE,150,2020-11-07,110000.0 USD,Active,linda.young67@company.org
+1871,Charlotte,Jones,Sale,Male,43.5,2015-07-03,70000,Inactive,charlotte.jones71@gmail.com
+1303,Emma,Harris,HR,m,,2015-08-15,,Active,emma.harris3@yahoo.com
+1647,Mia,Wright,marketing,Female,33,25-09-2016,135000,inactive,mia.wright47@company.org
+1759,Liam,Jones,MARKETING,f,62.5,2016-11-11,38000,On Leave,
+1097,Olivia,Jackson,Eng,female,28.5,2015-04-15,,on leave,olivia.jackson97@gmail.com
+1959,Ava,Jones,Engineering,Female,40,02/13/2010,124000,Inactive,AVA.JONES59@OUTLOOK.COM
+1912,Jessica,Williams,Financee,male,56,2022-02-24,125000,Activ,jessica.williams12@yahoo.com
+1216,Sophia,Williams,Marketing,Male,43,2015-06-10,,Active,sophia.williams16@yahoo.com
+1342,Isabella,Harris,Marketing,M,38 years,2013-08-12,56000,INACTIVE,isabella.harris42@outlook.com
+1047,Barbara,Martin,Marketing,f,52 years,,141000,Inactive,barbara.martin47@yahoo.com
+1024,Ava,Allen,Engineering,FEMALE,22,2014-05-07,105000,Inactive,ava.allen24@company.org
+1690,Thomas,Jones,MARKETING,f,28 years,2017-08-24,120000,on leave,thomas.jones90@yahoo.com
+1564,Joseph,Thompson,Finance,Male,150,26-05-2011,134000,inactive,joseph.thompson64@outlook.com
+1164,Jessica,Harris,Marketing,Female,29,2011-03-26,,INACTIVE,jessica.harris64@outlook.com
+1773,David,Scott,Engineering,female,42,2021-06-18,-49000,Inactive,david.scott73company.org
+2007,Noah,Davis,hr,M,46.5,,105000,inactive,
+1504,Michael,White,Engineering,F,43,2014-02-04,81000,INACTIVE,michael.white4@gmail.com
+1844,Sarah,Green,Finance,m,55 years,,,ON LEAVE,sarah.green44@outlook.com
+1234,Charlotte,Green,Sales,MALE,30,2024-10-18,119000,INACTIVE,charlotte.green34@gmail.com
+2099,Jessica,Anderson,Engineering,Female,150,2018-10-28,"$41,000",On Leave,jessica.anderson99@gmail.com
+1890,Isabella,Miller,MARKETING,Male,56,2011-03-15,95000,Inactive,isabella.miller90@company.org
+1700,John,Jackson,Marketing,m,49,2019-03-23,,On Leave,john.jackson0@company.org
+2030,John,Thompson,Enginering,Female,29 years,2022-09-26,,On Leave,john.thompson30@yahoo.com
+2082,Noah,Anderson,Eng,f,150,01/25/2020,,On Leave,noah.anderson82@company.org
+1430,Patricia,Harris,Sales,F,49,2011-02-22,115000,On Leave,patricia.harris30@gmail.com
+1061,Barbara,Walker,SALES,F,,04-03-2014,51000,Activ,barbara.walker61gmail.com
+1446,Ava,Miller,HR,male,50,,107000,Inactive,AVA.MILLER46@YAHOO.COM
+1374,Ava,Scott,Engineering,Female,28,2012-04-09,,Active,ava.scott74company.org
+1170,Ava,Thomas,Engineering,m,42,2022-12-23,,Active,ava.thomas70@outlook.com
+1215,Barbara,Johnson,Engineering,Female,62 years,11/10/2019,41000.0 USD,On Leave,
+1530,Olivia,Williams,SALES,m,51,2014-08-09,,On Leave,olivia.williams30@company.org
+1802,Charlotte,Johnson,HR,MALE,52,2012-03-08,41000,Activ,charlotte.johnson2outlook.com
+2072,Lisa,Green,SALES,Female,35 years,,"$51,000",on leave,lisa.green72@gmail.com
+1328,John,Jones,sales,F,53,2011-01-01,37000,INACTIVE,john.jones28yahoo.com
+2017,Joseph,Miller,Finance,F,-5,2021-05-15,"$148,000",Active,
+1872,Mary,Green,marketing,MALE,49,2016-12-02,85000,Inactive,
+1423,Logan,,HR,M,26,01/27/2018,118000,On Leave,logan.green23@company.org
+1545,Linda,Brown,Enginering,Female,33,2011-02-16,149000,Inactive,linda.brown45@outlook.com
+1203,Logan,Brown,HR,f,38,2020-06-01,43000,Active,logan.brown3@yahoo.com
+1674,Lisa,Thomas,Eng,f,,2023-12-11,128000,Inactive,
+1538,Lisa,Thompson,Sales,Female,48,2016-06-12,93000,on leave,lisa.thompson38company.org
+1728,Richard,Green,ENGINEERING,FEMALE,,2012-06-28,107000,Activ,richard.green28@outlook.com
+1651,Jennifer,White,Sales,m,41,18-09-2019,"$68,000",On Leave,jennifer.white51@yahoo.com
+1673,Barbara,Anderson,Engineering,MALE,32,2023-03-20,135000,Inactive,BARBARA.ANDERSON73@YAHOO.COM
+1030,William,Walker,FINANCE,male,58.5,2020-01-03,110000.0 USD,Inactive,william.walker30@company.org
+1947,Charles,Allen,Finance,M,46,2015-02-25,,Inactive,charles.allen47@company.org
+1168,,White,Engineering,Male,56,1/13/2022,137000.0 USD,On Leave,   william.white68@outlook.com  
+1926,Lisa,Green,Finance,Male,40 years,2/3/2012,132000,INACTIVE,
+1385,Charles,Wilson,FINANCE,Female,49,03/11/2024,75000,On Leave,
+1018,Patricia,Williams,hr,f,,2022-03-21,35000,INACTIVE,patricia.williams18@outlook.com
+2084,Charlotte,Taylor,Saless,Female,40,2023-08-17,66000,Inactive,   charlotte.taylor84@outlook.com  
+1613,,Davis,HR,Male,42,2020-02-12,94000,In-active,emma.davis13@company.org
+1282,Karen,Jones,Enginering,male,23,2022-10-20,58000,Activ,karen.jones82@outlook.com
+1152,James,Walker,Engineering,Female,35 years,2020-12-05,,Inactive,james.walker52@company.org
+1492,Patricia,Scott,Marketing,m,48,2021-08-06,112000.0 USD,ON LEAVE,patricia.scott92@company.org
+1948,Sarah,Scott,Marketing,female,50,05/05/2018,69000.0 USD,Active,sarah.scott48@gmail.com
+1904,Linda,Martin,Fin,Female,34.5,12/11/2018,"$41,000",inactive,linda.martin4@yahoo.com
+1147,Sophia,Martin,Engineering,Female,46,2017-02-21,88000,ON LEAVE,sophia.martin47@gmail.com
+1294,Richard,Wright,marketing,F,41,,74000,INACTIVE,richard.wright94gmail.com
+1367,Michael,Wright,Engineering,female,64,,99000,Inactive,michael.wright67@outlook.com
+1106,Richard,Young,Marketing,female,,10/8/2021,"$48,000",Active,richard.young6@yahoo.com
